@@ -1,0 +1,1295 @@
+record_id,appointment_id,diagnosis,medication,dosage,duration_days,notes,follow_up_required,outcome
+1,562,Dermatitis,Sertraline,Three times daily,7,Follow-up in 2 weeks,No,Improving
+2,1344,Coronary Artery Disease,Cetirizine,Three times daily,14,Patient responded well,Yes,Recovered
+3,1565,Anemia,Lisinopril,Once daily,14,Dietary changes recommended,No,Critical
+4,1424,Asthma,Metformin,Once daily,7,Follow-up in 2 weeks,No,Needs Follow-up
+5,819,Anxiety Disorder,Atorvastatin,Twice daily,21,Rest advised,Yes,Needs Follow-up
+6,840,Gastritis,Omeprazole,Three times daily,30,Patient responded well,Yes,Critical
+7,1544,Migraine,Sertraline,Three times daily,7,Rest advised,Yes,Stable
+8,158,Coronary Artery Disease,Atorvastatin,Three times daily,7,Dietary changes recommended,Yes,Recovered
+9,357,Anxiety Disorder,Amlodipine,Once daily,30,Patient responded well,Yes,Improving
+10,1539,Hypertension,Metformin,Twice daily,21,Patient responded well,Yes,Critical
+11,626,Coronary Artery Disease,Metformin,As needed,10,Rest advised,No,Critical
+12,530,Back Pain,Amoxicillin,Three times daily,30,Lab tests required,No,Critical
+13,77,Coronary Artery Disease,Ibuprofen,Twice daily,7,Dietary changes recommended,Yes,Stable
+14,1645,Migraine,Lisinopril,Twice daily,5,Lab tests required,No,Improving
+15,1278,Coronary Artery Disease,Omeprazole,Twice daily,7,Rest advised,Yes,Critical
+16,1072,Appendicitis,Metformin,Twice daily,7,Refer to specialist,Yes,Critical
+17,469,Appendicitis,Metformin,Twice daily,30,Dietary changes recommended,No,Stable
+18,701,Asthma,Omeprazole,Three times daily,7,Refer to specialist,No,Recovered
+19,1375,Coronary Artery Disease,Paracetamol,Twice daily,5,Monitor blood pressure,No,Recovered
+20,1431,Back Pain,Omeprazole,As needed,21,Refer to specialist,No,Critical
+21,1400,Appendicitis,Amlodipine,Twice daily,5,Follow-up in 2 weeks,Yes,Improving
+22,418,Dermatitis,Metformin,As needed,10,Dietary changes recommended,No,Critical
+23,1816,Appendicitis,Atorvastatin,Twice daily,30,Follow-up in 2 weeks,No,Improving
+24,1338,Kidney Stones,Ibuprofen,Once daily,5,Patient responded well,No,Recovered
+25,1247,Migraine,Ibuprofen,Once daily,5,Dietary changes recommended,Yes,Needs Follow-up
+26,1019,Depression,Cetirizine,Three times daily,14,Lab tests required,No,Critical
+27,1267,Back Pain,Sertraline,Twice daily,21,Rest advised,Yes,Stable
+28,606,Asthma,Paracetamol,Once daily,7,Lab tests required,Yes,Improving
+29,628,Depression,Paracetamol,Twice daily,7,Follow-up in 2 weeks,Yes,Critical
+30,1449,Back Pain,Amlodipine,Three times daily,7,Patient responded well,No,Critical
+31,15,Type 2 Diabetes,Omeprazole,Three times daily,21,Monitor blood pressure,No,Critical
+32,354,Migraine,Atorvastatin,Once daily,10,Follow-up in 2 weeks,Yes,Recovered
+33,874,Asthma,Cetirizine,Twice daily,10,Dietary changes recommended,Yes,Improving
+34,194,Gastritis,Atorvastatin,Once daily,7,Follow-up in 2 weeks,Yes,Stable
+35,152,Fracture,Ibuprofen,As needed,7,Rest advised,Yes,Needs Follow-up
+36,1116,Anemia,Atorvastatin,Three times daily,10,Lab tests required,No,Needs Follow-up
+37,490,Depression,Amlodipine,As needed,14,Monitor blood pressure,No,Critical
+38,1358,Dermatitis,Paracetamol,Three times daily,30,Monitor blood pressure,No,Improving
+39,1667,Depression,Lisinopril,Twice daily,5,Follow-up in 2 weeks,Yes,Critical
+40,198,Depression,Paracetamol,Once daily,21,Lab tests required,No,Stable
+41,76,Flu,Metformin,Once daily,21,Patient responded well,No,Improving
+42,1146,Migraine,Cetirizine,Twice daily,21,Refer to specialist,No,Recovered
+43,1024,Asthma,Atorvastatin,Twice daily,7,Refer to specialist,No,Recovered
+44,1609,Asthma,Lisinopril,As needed,21,Monitor blood pressure,No,Critical
+45,149,Fracture,Metformin,As needed,5,Lab tests required,No,Needs Follow-up
+46,120,Depression,Paracetamol,Twice daily,30,Lab tests required,Yes,Stable
+47,1975,Anemia,Metformin,Once daily,14,Monitor blood pressure,No,Improving
+48,486,Anxiety Disorder,Paracetamol,As needed,10,Patient responded well,Yes,Improving
+49,1493,Appendicitis,Paracetamol,As needed,10,Dietary changes recommended,Yes,Improving
+50,567,Anxiety Disorder,Sertraline,Three times daily,5,Patient responded well,No,Needs Follow-up
+51,407,Anxiety Disorder,Amoxicillin,Three times daily,10,Patient responded well,No,Critical
+52,207,Hypertension,Amlodipine,Three times daily,10,Monitor blood pressure,Yes,Stable
+53,976,Kidney Stones,Atorvastatin,Twice daily,30,Monitor blood pressure,Yes,Needs Follow-up
+54,599,Gastritis,Atorvastatin,Once daily,10,Patient responded well,Yes,Needs Follow-up
+55,1007,Coronary Artery Disease,Metformin,Once daily,7,Monitor blood pressure,No,Critical
+56,1432,Anemia,Ibuprofen,As needed,14,Rest advised,No,Critical
+57,1945,Flu,Sertraline,Twice daily,5,Dietary changes recommended,No,Improving
+58,381,Migraine,Amoxicillin,Three times daily,14,Follow-up in 2 weeks,No,Critical
+59,1328,Depression,Amlodipine,Once daily,10,Refer to specialist,No,Critical
+60,81,Back Pain,Atorvastatin,Twice daily,14,Lab tests required,No,Improving
+61,949,Depression,Cetirizine,As needed,21,Lab tests required,Yes,Improving
+62,715,Hypertension,Sertraline,Three times daily,30,Refer to specialist,No,Stable
+63,1804,Gastritis,Paracetamol,Once daily,21,Lab tests required,Yes,Needs Follow-up
+64,391,Anemia,Paracetamol,Twice daily,21,Patient responded well,No,Stable
+65,687,Anxiety Disorder,Amoxicillin,Twice daily,5,Lab tests required,No,Stable
+66,1242,Gastritis,Lisinopril,As needed,7,Refer to specialist,Yes,Critical
+67,1974,Migraine,Lisinopril,As needed,21,Follow-up in 2 weeks,Yes,Critical
+68,278,Kidney Stones,Sertraline,Once daily,7,Monitor blood pressure,Yes,Stable
+69,1527,Depression,Amoxicillin,Twice daily,5,Monitor blood pressure,Yes,Needs Follow-up
+70,531,Appendicitis,Paracetamol,Once daily,5,Refer to specialist,Yes,Improving
+71,112,Appendicitis,Paracetamol,As needed,5,Lab tests required,No,Stable
+72,638,Depression,Ibuprofen,Three times daily,30,Patient responded well,No,Needs Follow-up
+73,386,Anemia,Lisinopril,Twice daily,14,Patient responded well,Yes,Improving
+74,637,Type 2 Diabetes,Amlodipine,As needed,10,Refer to specialist,No,Needs Follow-up
+75,1184,Kidney Stones,Metformin,Twice daily,7,Follow-up in 2 weeks,Yes,Recovered
+76,1084,Gastritis,Amoxicillin,As needed,7,Monitor blood pressure,Yes,Improving
+77,1096,Depression,Sertraline,Three times daily,30,Patient responded well,Yes,Stable
+78,495,Depression,Paracetamol,As needed,7,Dietary changes recommended,Yes,Recovered
+79,1606,Appendicitis,Paracetamol,Three times daily,7,Dietary changes recommended,Yes,Critical
+80,1222,Gastritis,Lisinopril,Twice daily,14,Dietary changes recommended,Yes,Recovered
+81,2000,Hypertension,Amlodipine,As needed,30,Patient responded well,Yes,Critical
+82,1898,Dermatitis,Sertraline,Three times daily,30,Patient responded well,No,Improving
+83,1905,Hypertension,Lisinopril,As needed,7,Refer to specialist,No,Critical
+84,1810,Dermatitis,Ibuprofen,Once daily,7,Patient responded well,No,Needs Follow-up
+85,1495,Kidney Stones,Amlodipine,Twice daily,14,Refer to specialist,Yes,Critical
+86,771,Depression,Paracetamol,Once daily,14,Refer to specialist,No,Stable
+87,1079,Gastritis,Lisinopril,As needed,14,Lab tests required,No,Needs Follow-up
+88,406,Anemia,Metformin,Once daily,14,Rest advised,No,Critical
+89,1169,Anxiety Disorder,Metformin,As needed,7,Rest advised,Yes,Needs Follow-up
+90,1099,Anxiety Disorder,Ibuprofen,Twice daily,7,Monitor blood pressure,No,Critical
+91,674,Gastritis,Ibuprofen,Once daily,5,Patient responded well,Yes,Recovered
+92,734,Anemia,Amlodipine,Once daily,14,Patient responded well,Yes,Recovered
+93,470,Dermatitis,Cetirizine,Twice daily,30,Follow-up in 2 weeks,Yes,Critical
+94,545,Asthma,Atorvastatin,Three times daily,21,Dietary changes recommended,Yes,Recovered
+95,478,Anxiety Disorder,Sertraline,Three times daily,30,Dietary changes recommended,No,Recovered
+96,1371,Depression,Paracetamol,Twice daily,5,Monitor blood pressure,Yes,Critical
+97,1896,Back Pain,Cetirizine,Three times daily,14,Monitor blood pressure,No,Stable
+98,613,Depression,Lisinopril,Once daily,14,Follow-up in 2 weeks,Yes,Improving
+99,1621,Anemia,Ibuprofen,Twice daily,10,Lab tests required,Yes,Critical
+100,558,Appendicitis,Atorvastatin,Twice daily,30,Rest advised,Yes,Recovered
+101,4,Anemia,Lisinopril,Once daily,14,Monitor blood pressure,No,Recovered
+102,900,Type 2 Diabetes,Metformin,Once daily,5,Monitor blood pressure,No,Improving
+103,1135,Dermatitis,Metformin,Three times daily,14,Monitor blood pressure,No,Stable
+104,1466,Fracture,Ibuprofen,Twice daily,5,Follow-up in 2 weeks,No,Stable
+105,700,Kidney Stones,Paracetamol,Three times daily,7,Monitor blood pressure,Yes,Needs Follow-up
+106,1107,Depression,Omeprazole,Three times daily,21,Refer to specialist,No,Recovered
+107,712,Kidney Stones,Amoxicillin,Once daily,10,Patient responded well,Yes,Improving
+108,409,Dermatitis,Omeprazole,Three times daily,5,Patient responded well,Yes,Critical
+109,1840,Back Pain,Atorvastatin,Once daily,7,Refer to specialist,No,Recovered
+110,1319,Anemia,Ibuprofen,Three times daily,14,Monitor blood pressure,Yes,Improving
+111,1331,Type 2 Diabetes,Lisinopril,Twice daily,5,Follow-up in 2 weeks,No,Critical
+112,280,Appendicitis,Ibuprofen,Twice daily,10,Rest advised,Yes,Improving
+113,1571,Gastritis,Sertraline,Once daily,21,Monitor blood pressure,Yes,Stable
+114,1093,Fracture,Metformin,Once daily,10,Monitor blood pressure,Yes,Needs Follow-up
+115,1884,Anemia,Cetirizine,Three times daily,7,Lab tests required,Yes,Recovered
+116,1455,Back Pain,Ibuprofen,Twice daily,21,Monitor blood pressure,Yes,Improving
+117,1240,Gastritis,Lisinopril,Once daily,21,Patient responded well,No,Improving
+118,294,Dermatitis,Paracetamol,As needed,10,Refer to specialist,No,Recovered
+119,159,Anxiety Disorder,Lisinopril,As needed,7,Dietary changes recommended,Yes,Stable
+120,1726,Asthma,Omeprazole,As needed,30,Monitor blood pressure,Yes,Improving
+121,1420,Fracture,Omeprazole,Twice daily,10,Lab tests required,Yes,Critical
+122,1923,Appendicitis,Amlodipine,Three times daily,5,Patient responded well,Yes,Stable
+123,1585,Coronary Artery Disease,Atorvastatin,As needed,30,Patient responded well,Yes,Critical
+124,604,Depression,Paracetamol,Twice daily,5,Lab tests required,Yes,Needs Follow-up
+125,1217,Dermatitis,Metformin,Three times daily,30,Lab tests required,No,Recovered
+126,1542,Kidney Stones,Amlodipine,Three times daily,14,Rest advised,No,Improving
+127,384,Dermatitis,Omeprazole,Twice daily,30,Follow-up in 2 weeks,No,Needs Follow-up
+128,1996,Type 2 Diabetes,Omeprazole,Twice daily,10,Patient responded well,No,Stable
+129,510,Appendicitis,Metformin,Once daily,30,Follow-up in 2 weeks,No,Stable
+130,641,Anemia,Metformin,Twice daily,5,Patient responded well,Yes,Needs Follow-up
+131,1196,Kidney Stones,Amoxicillin,Three times daily,7,Patient responded well,Yes,Stable
+132,128,Depression,Metformin,Three times daily,14,Follow-up in 2 weeks,No,Critical
+133,315,Dermatitis,Ibuprofen,Once daily,10,Monitor blood pressure,No,Improving
+134,44,Hypertension,Atorvastatin,Twice daily,5,Refer to specialist,Yes,Recovered
+135,1519,Anemia,Paracetamol,Once daily,30,Rest advised,No,Stable
+136,394,Anemia,Metformin,Three times daily,30,Refer to specialist,Yes,Stable
+137,500,Asthma,Amoxicillin,As needed,14,Monitor blood pressure,No,Recovered
+138,1236,Hypertension,Metformin,As needed,14,Monitor blood pressure,No,Critical
+139,319,Kidney Stones,Amlodipine,Once daily,10,Rest advised,No,Improving
+140,1824,Depression,Sertraline,As needed,21,Patient responded well,Yes,Improving
+141,1731,Migraine,Omeprazole,As needed,7,Monitor blood pressure,No,Recovered
+142,1967,Anxiety Disorder,Ibuprofen,As needed,14,Monitor blood pressure,Yes,Improving
+143,1746,Anxiety Disorder,Metformin,Twice daily,14,Lab tests required,Yes,Needs Follow-up
+144,1754,Dermatitis,Paracetamol,Twice daily,14,Monitor blood pressure,Yes,Critical
+145,589,Kidney Stones,Sertraline,Twice daily,7,Refer to specialist,Yes,Stable
+146,285,Appendicitis,Omeprazole,Twice daily,10,Monitor blood pressure,Yes,Recovered
+147,1522,Flu,Omeprazole,As needed,21,Rest advised,No,Improving
+148,1348,Hypertension,Lisinopril,Three times daily,5,Dietary changes recommended,Yes,Stable
+149,825,Asthma,Lisinopril,Once daily,14,Patient responded well,No,Stable
+150,1658,Migraine,Metformin,Three times daily,7,Follow-up in 2 weeks,No,Recovered
+151,809,Type 2 Diabetes,Atorvastatin,Once daily,5,Monitor blood pressure,Yes,Stable
+152,1255,Back Pain,Sertraline,Twice daily,5,Monitor blood pressure,No,Critical
+153,1481,Flu,Paracetamol,Three times daily,7,Monitor blood pressure,No,Recovered
+154,642,Hypertension,Amlodipine,As needed,30,Lab tests required,No,Critical
+155,1020,Migraine,Metformin,Three times daily,14,Rest advised,Yes,Stable
+156,1842,Appendicitis,Atorvastatin,As needed,7,Refer to specialist,No,Critical
+157,826,Migraine,Amoxicillin,Three times daily,21,Refer to specialist,No,Needs Follow-up
+158,415,Gastritis,Amoxicillin,Once daily,30,Follow-up in 2 weeks,Yes,Critical
+159,464,Hypertension,Ibuprofen,Three times daily,10,Follow-up in 2 weeks,No,Recovered
+160,665,Appendicitis,Amlodipine,Three times daily,30,Dietary changes recommended,Yes,Recovered
+161,685,Appendicitis,Metformin,Twice daily,14,Lab tests required,Yes,Recovered
+162,1935,Anemia,Lisinopril,Twice daily,10,Refer to specialist,No,Needs Follow-up
+163,453,Dermatitis,Atorvastatin,Three times daily,14,Refer to specialist,Yes,Recovered
+164,522,Depression,Ibuprofen,As needed,30,Monitor blood pressure,No,Critical
+165,1576,Flu,Lisinopril,As needed,5,Monitor blood pressure,No,Needs Follow-up
+166,54,Hypertension,Sertraline,Twice daily,10,Refer to specialist,No,Recovered
+167,336,Hypertension,Omeprazole,As needed,21,Monitor blood pressure,Yes,Recovered
+168,914,Back Pain,Cetirizine,Twice daily,14,Rest advised,Yes,Critical
+169,797,Dermatitis,Paracetamol,Once daily,10,Dietary changes recommended,No,Recovered
+170,1869,Migraine,Metformin,Three times daily,10,Refer to specialist,No,Recovered
+171,1873,Anemia,Omeprazole,As needed,21,Follow-up in 2 weeks,No,Stable
+172,1722,Dermatitis,Amoxicillin,As needed,14,Follow-up in 2 weeks,No,Needs Follow-up
+173,594,Back Pain,Amoxicillin,Twice daily,30,Refer to specialist,No,Improving
+174,568,Anemia,Sertraline,Twice daily,21,Rest advised,No,Improving
+175,1105,Asthma,Cetirizine,Three times daily,7,Dietary changes recommended,No,Stable
+176,1262,Dermatitis,Amoxicillin,Three times daily,5,Dietary changes recommended,No,Critical
+177,182,Type 2 Diabetes,Ibuprofen,Twice daily,21,Follow-up in 2 weeks,No,Stable
+178,1181,Kidney Stones,Atorvastatin,Three times daily,7,Patient responded well,No,Stable
+179,1757,Fracture,Paracetamol,Three times daily,21,Monitor blood pressure,No,Needs Follow-up
+180,1062,Hypertension,Metformin,Once daily,30,Refer to specialist,Yes,Recovered
+181,668,Dermatitis,Ibuprofen,As needed,21,Rest advised,Yes,Critical
+182,1164,Flu,Ibuprofen,Twice daily,30,Rest advised,No,Needs Follow-up
+183,1806,Dermatitis,Sertraline,Twice daily,14,Dietary changes recommended,No,Critical
+184,1218,Depression,Ibuprofen,Twice daily,30,Dietary changes recommended,No,Needs Follow-up
+185,761,Dermatitis,Amoxicillin,Twice daily,21,Monitor blood pressure,Yes,Recovered
+186,1482,Fracture,Cetirizine,Three times daily,21,Refer to specialist,Yes,Stable
+187,766,Back Pain,Sertraline,Once daily,30,Monitor blood pressure,No,Recovered
+188,211,Anxiety Disorder,Ibuprofen,Once daily,10,Lab tests required,No,Recovered
+189,363,Kidney Stones,Metformin,Twice daily,21,Patient responded well,Yes,Recovered
+190,1652,Hypertension,Atorvastatin,Three times daily,5,Lab tests required,No,Stable
+191,174,Asthma,Cetirizine,As needed,10,Follow-up in 2 weeks,Yes,Stable
+192,857,Gastritis,Atorvastatin,Twice daily,21,Rest advised,No,Critical
+193,1239,Anemia,Omeprazole,Three times daily,30,Refer to specialist,Yes,Stable
+194,1520,Anxiety Disorder,Sertraline,As needed,21,Monitor blood pressure,No,Critical
+195,867,Back Pain,Cetirizine,Twice daily,14,Dietary changes recommended,No,Improving
+196,332,Dermatitis,Atorvastatin,As needed,5,Follow-up in 2 weeks,No,Needs Follow-up
+197,737,Dermatitis,Omeprazole,Twice daily,21,Dietary changes recommended,No,Critical
+198,23,Fracture,Lisinopril,Three times daily,30,Lab tests required,Yes,Improving
+199,1500,Depression,Cetirizine,Twice daily,21,Lab tests required,Yes,Stable
+200,995,Depression,Atorvastatin,Once daily,10,Dietary changes recommended,Yes,Critical
+201,721,Coronary Artery Disease,Cetirizine,Once daily,10,Lab tests required,No,Improving
+202,961,Gastritis,Atorvastatin,Twice daily,5,Follow-up in 2 weeks,Yes,Stable
+203,1876,Anemia,Metformin,Twice daily,10,Follow-up in 2 weeks,No,Improving
+204,1948,Back Pain,Amlodipine,Twice daily,21,Monitor blood pressure,No,Recovered
+205,473,Back Pain,Lisinopril,Three times daily,30,Refer to specialist,No,Critical
+206,43,Coronary Artery Disease,Atorvastatin,Once daily,30,Lab tests required,Yes,Needs Follow-up
+207,225,Type 2 Diabetes,Paracetamol,Three times daily,7,Rest advised,Yes,Needs Follow-up
+208,694,Dermatitis,Paracetamol,Twice daily,7,Rest advised,No,Critical
+209,1208,Asthma,Cetirizine,Once daily,14,Lab tests required,Yes,Improving
+210,559,Appendicitis,Cetirizine,Once daily,14,Lab tests required,No,Critical
+211,1250,Back Pain,Omeprazole,As needed,10,Refer to specialist,Yes,Stable
+212,1702,Fracture,Omeprazole,As needed,7,Monitor blood pressure,No,Critical
+213,1727,Hypertension,Lisinopril,Twice daily,7,Rest advised,No,Recovered
+214,898,Migraine,Omeprazole,As needed,7,Dietary changes recommended,Yes,Needs Follow-up
+215,1244,Flu,Paracetamol,Once daily,30,Follow-up in 2 weeks,Yes,Recovered
+216,1747,Gastritis,Cetirizine,Twice daily,7,Monitor blood pressure,Yes,Critical
+217,1465,Kidney Stones,Amlodipine,As needed,21,Refer to specialist,Yes,Improving
+218,1139,Asthma,Lisinopril,As needed,10,Dietary changes recommended,No,Critical
+219,1211,Flu,Cetirizine,Once daily,14,Follow-up in 2 weeks,No,Recovered
+220,199,Hypertension,Ibuprofen,Three times daily,5,Follow-up in 2 weeks,No,Recovered
+221,992,Hypertension,Sertraline,Three times daily,7,Patient responded well,Yes,Stable
+222,869,Hypertension,Ibuprofen,Once daily,5,Refer to specialist,Yes,Stable
+223,1475,Fracture,Sertraline,Three times daily,7,Lab tests required,Yes,Recovered
+224,148,Hypertension,Paracetamol,As needed,30,Monitor blood pressure,Yes,Improving
+225,1130,Anxiety Disorder,Lisinopril,Twice daily,21,Dietary changes recommended,No,Recovered
+226,1005,Asthma,Omeprazole,Twice daily,21,Dietary changes recommended,No,Recovered
+227,787,Coronary Artery Disease,Sertraline,Once daily,30,Refer to specialist,No,Recovered
+228,228,Appendicitis,Sertraline,As needed,21,Follow-up in 2 weeks,Yes,Recovered
+229,1836,Kidney Stones,Metformin,Three times daily,30,Refer to specialist,No,Stable
+230,212,Anxiety Disorder,Ibuprofen,Once daily,5,Rest advised,No,Critical
+231,1151,Appendicitis,Atorvastatin,Once daily,30,Follow-up in 2 weeks,No,Recovered
+232,1888,Type 2 Diabetes,Omeprazole,Twice daily,5,Patient responded well,No,Improving
+233,1333,Depression,Paracetamol,Once daily,10,Refer to specialist,Yes,Stable
+234,843,Flu,Paracetamol,Once daily,21,Dietary changes recommended,No,Stable
+235,227,Back Pain,Atorvastatin,Once daily,10,Follow-up in 2 weeks,Yes,Improving
+236,246,Kidney Stones,Sertraline,Twice daily,21,Dietary changes recommended,No,Stable
+237,1073,Depression,Cetirizine,Twice daily,10,Monitor blood pressure,Yes,Critical
+238,1036,Asthma,Amlodipine,Three times daily,7,Refer to specialist,No,Stable
+239,1334,Anxiety Disorder,Atorvastatin,Twice daily,10,Follow-up in 2 weeks,Yes,Critical
+240,1675,Fracture,Sertraline,Twice daily,5,Monitor blood pressure,Yes,Critical
+241,1894,Hypertension,Metformin,Twice daily,5,Follow-up in 2 weeks,Yes,Needs Follow-up
+242,1808,Flu,Amlodipine,Twice daily,30,Lab tests required,Yes,Improving
+243,1177,Asthma,Amoxicillin,Three times daily,5,Rest advised,Yes,Improving
+244,670,Appendicitis,Amlodipine,As needed,7,Patient responded well,No,Stable
+245,1011,Anemia,Omeprazole,Once daily,30,Rest advised,No,Critical
+246,1394,Type 2 Diabetes,Cetirizine,Once daily,14,Dietary changes recommended,Yes,Improving
+247,1537,Dermatitis,Omeprazole,Twice daily,14,Dietary changes recommended,Yes,Improving
+248,1118,Anemia,Cetirizine,As needed,30,Refer to specialist,Yes,Critical
+249,596,Kidney Stones,Atorvastatin,Once daily,30,Patient responded well,No,Stable
+250,190,Depression,Omeprazole,Once daily,7,Refer to specialist,Yes,Improving
+251,1479,Fracture,Lisinopril,As needed,7,Dietary changes recommended,Yes,Stable
+252,2,Back Pain,Paracetamol,Once daily,7,Follow-up in 2 weeks,No,Critical
+253,436,Gastritis,Cetirizine,Twice daily,21,Refer to specialist,No,Recovered
+254,58,Dermatitis,Metformin,As needed,21,Monitor blood pressure,Yes,Recovered
+255,1723,Anxiety Disorder,Ibuprofen,As needed,30,Monitor blood pressure,No,Needs Follow-up
+256,543,Back Pain,Amlodipine,Once daily,10,Dietary changes recommended,No,Needs Follow-up
+257,1752,Flu,Sertraline,Three times daily,14,Follow-up in 2 weeks,No,Recovered
+258,1783,Anemia,Cetirizine,As needed,10,Rest advised,No,Stable
+259,47,Appendicitis,Atorvastatin,Three times daily,7,Lab tests required,Yes,Stable
+260,224,Gastritis,Amoxicillin,As needed,30,Refer to specialist,No,Needs Follow-up
+261,1535,Depression,Omeprazole,Once daily,7,Monitor blood pressure,Yes,Recovered
+262,306,Hypertension,Atorvastatin,As needed,10,Refer to specialist,No,Stable
+263,432,Dermatitis,Metformin,Once daily,14,Dietary changes recommended,Yes,Improving
+264,1755,Kidney Stones,Metformin,As needed,30,Follow-up in 2 weeks,Yes,Critical
+265,475,Gastritis,Paracetamol,As needed,14,Refer to specialist,No,Improving
+266,969,Flu,Metformin,Twice daily,30,Follow-up in 2 weeks,Yes,Recovered
+267,231,Coronary Artery Disease,Ibuprofen,As needed,21,Dietary changes recommended,Yes,Needs Follow-up
+268,647,Flu,Metformin,Three times daily,30,Dietary changes recommended,Yes,Needs Follow-up
+269,763,Hypertension,Amlodipine,Twice daily,14,Lab tests required,Yes,Needs Follow-up
+270,1956,Anxiety Disorder,Lisinopril,Three times daily,5,Refer to specialist,Yes,Recovered
+271,1259,Type 2 Diabetes,Metformin,Once daily,21,Lab tests required,Yes,Needs Follow-up
+272,725,Dermatitis,Paracetamol,Once daily,21,Monitor blood pressure,Yes,Recovered
+273,838,Gastritis,Amoxicillin,Three times daily,21,Refer to specialist,Yes,Improving
+274,887,Migraine,Amoxicillin,Twice daily,7,Monitor blood pressure,No,Needs Follow-up
+275,1017,Appendicitis,Paracetamol,As needed,7,Rest advised,No,Critical
+276,1819,Flu,Amlodipine,Twice daily,7,Rest advised,Yes,Improving
+277,649,Anxiety Disorder,Amlodipine,Twice daily,14,Lab tests required,No,Recovered
+278,1573,Kidney Stones,Paracetamol,Three times daily,21,Lab tests required,No,Recovered
+279,886,Hypertension,Paracetamol,As needed,30,Lab tests required,Yes,Recovered
+280,1581,Hypertension,Paracetamol,Once daily,21,Dietary changes recommended,Yes,Stable
+281,824,Type 2 Diabetes,Paracetamol,As needed,30,Monitor blood pressure,Yes,Improving
+282,741,Anxiety Disorder,Cetirizine,As needed,14,Follow-up in 2 weeks,No,Critical
+283,339,Kidney Stones,Cetirizine,Twice daily,5,Lab tests required,No,Needs Follow-up
+284,122,Fracture,Atorvastatin,Twice daily,10,Follow-up in 2 weeks,No,Improving
+285,263,Appendicitis,Amlodipine,Once daily,30,Rest advised,Yes,Recovered
+286,1848,Asthma,Omeprazole,Twice daily,21,Rest advised,Yes,Improving
+287,769,Flu,Atorvastatin,Twice daily,10,Refer to specialist,No,Improving
+288,1382,Coronary Artery Disease,Lisinopril,As needed,5,Lab tests required,No,Needs Follow-up
+289,759,Type 2 Diabetes,Amlodipine,Once daily,14,Monitor blood pressure,Yes,Needs Follow-up
+290,366,Hypertension,Sertraline,Once daily,21,Monitor blood pressure,Yes,Stable
+291,130,Fracture,Ibuprofen,Three times daily,5,Refer to specialist,No,Critical
+292,1637,Anemia,Sertraline,Three times daily,14,Monitor blood pressure,Yes,Needs Follow-up
+293,1897,Flu,Paracetamol,Once daily,30,Lab tests required,No,Stable
+294,1207,Anemia,Paracetamol,As needed,5,Follow-up in 2 weeks,No,Recovered
+295,296,Anemia,Cetirizine,Three times daily,30,Dietary changes recommended,No,Improving
+296,208,Anemia,Cetirizine,Twice daily,7,Dietary changes recommended,No,Needs Follow-up
+297,690,Migraine,Sertraline,Twice daily,30,Rest advised,Yes,Recovered
+298,1025,Depression,Sertraline,Once daily,30,Monitor blood pressure,Yes,Stable
+299,627,Depression,Ibuprofen,As needed,10,Refer to specialist,No,Needs Follow-up
+300,1697,Hypertension,Ibuprofen,Three times daily,21,Patient responded well,No,Critical
+301,1198,Appendicitis,Omeprazole,Three times daily,30,Refer to specialist,No,Critical
+302,1777,Gastritis,Ibuprofen,Three times daily,10,Dietary changes recommended,Yes,Improving
+303,723,Anemia,Atorvastatin,Once daily,14,Patient responded well,Yes,Stable
+304,1485,Anxiety Disorder,Paracetamol,Twice daily,10,Monitor blood pressure,Yes,Improving
+305,546,Asthma,Paracetamol,As needed,14,Lab tests required,Yes,Improving
+306,1088,Appendicitis,Sertraline,Twice daily,30,Dietary changes recommended,No,Critical
+307,904,Dermatitis,Ibuprofen,As needed,21,Follow-up in 2 weeks,No,Stable
+308,1489,Flu,Atorvastatin,As needed,21,Lab tests required,Yes,Stable
+309,836,Flu,Sertraline,As needed,21,Lab tests required,Yes,Recovered
+310,842,Appendicitis,Metformin,Three times daily,10,Dietary changes recommended,No,Critical
+311,985,Back Pain,Amlodipine,As needed,14,Monitor blood pressure,Yes,Improving
+312,742,Flu,Metformin,As needed,5,Lab tests required,Yes,Recovered
+313,1739,Asthma,Lisinopril,Once daily,30,Lab tests required,Yes,Recovered
+314,858,Migraine,Amlodipine,As needed,10,Rest advised,Yes,Needs Follow-up
+315,666,Anemia,Lisinopril,Twice daily,21,Monitor blood pressure,No,Needs Follow-up
+316,1863,Hypertension,Sertraline,Three times daily,14,Refer to specialist,No,Needs Follow-up
+317,378,Appendicitis,Cetirizine,Three times daily,30,Refer to specialist,No,Stable
+318,1309,Migraine,Sertraline,Twice daily,14,Monitor blood pressure,Yes,Improving
+319,1616,Kidney Stones,Lisinopril,Once daily,21,Lab tests required,No,Recovered
+320,1944,Kidney Stones,Sertraline,Three times daily,10,Refer to specialist,No,Needs Follow-up
+321,330,Migraine,Paracetamol,As needed,21,Dietary changes recommended,Yes,Needs Follow-up
+322,1458,Type 2 Diabetes,Atorvastatin,Once daily,14,Rest advised,Yes,Improving
+323,996,Asthma,Paracetamol,As needed,7,Refer to specialist,Yes,Stable
+324,1076,Flu,Cetirizine,Three times daily,30,Rest advised,Yes,Needs Follow-up
+325,895,Asthma,Amoxicillin,Three times daily,21,Lab tests required,No,Critical
+326,1391,Depression,Omeprazole,Once daily,7,Dietary changes recommended,No,Improving
+327,1414,Depression,Cetirizine,As needed,5,Monitor blood pressure,Yes,Stable
+328,1092,Appendicitis,Ibuprofen,Once daily,21,Lab tests required,Yes,Recovered
+329,1085,Back Pain,Cetirizine,Once daily,14,Rest advised,No,Improving
+330,497,Gastritis,Atorvastatin,As needed,7,Patient responded well,Yes,Stable
+331,323,Migraine,Lisinopril,Twice daily,7,Dietary changes recommended,No,Critical
+332,183,Asthma,Omeprazole,Twice daily,14,Follow-up in 2 weeks,Yes,Recovered
+333,952,Flu,Atorvastatin,Three times daily,5,Patient responded well,Yes,Critical
+334,1799,Appendicitis,Amlodipine,Twice daily,5,Dietary changes recommended,No,Recovered
+335,1659,Kidney Stones,Paracetamol,Once daily,21,Lab tests required,No,Needs Follow-up
+336,1512,Migraine,Paracetamol,Twice daily,5,Rest advised,No,Recovered
+337,615,Migraine,Paracetamol,Three times daily,21,Monitor blood pressure,No,Stable
+338,1885,Back Pain,Sertraline,Twice daily,7,Refer to specialist,Yes,Recovered
+339,1459,Migraine,Sertraline,As needed,14,Rest advised,Yes,Critical
+340,300,Type 2 Diabetes,Cetirizine,Three times daily,5,Dietary changes recommended,No,Needs Follow-up
+341,48,Depression,Omeprazole,Three times daily,14,Rest advised,Yes,Needs Follow-up
+342,803,Hypertension,Amlodipine,Three times daily,14,Lab tests required,Yes,Recovered
+343,1057,Asthma,Amlodipine,Once daily,7,Monitor blood pressure,No,Recovered
+344,1133,Fracture,Atorvastatin,As needed,5,Rest advised,Yes,Critical
+345,1228,Fracture,Ibuprofen,Twice daily,5,Rest advised,No,Improving
+346,906,Flu,Ibuprofen,Twice daily,14,Follow-up in 2 weeks,No,Needs Follow-up
+347,1623,Anxiety Disorder,Amlodipine,Three times daily,10,Follow-up in 2 weeks,No,Stable
+348,539,Anxiety Disorder,Lisinopril,Three times daily,10,Rest advised,No,Recovered
+349,291,Anxiety Disorder,Ibuprofen,As needed,10,Follow-up in 2 weeks,No,Recovered
+350,369,Anemia,Ibuprofen,Three times daily,30,Lab tests required,Yes,Recovered
+351,196,Gastritis,Cetirizine,Twice daily,14,Patient responded well,Yes,Improving
+352,1613,Kidney Stones,Ibuprofen,As needed,30,Dietary changes recommended,Yes,Stable
+353,69,Hypertension,Amoxicillin,Three times daily,21,Patient responded well,Yes,Critical
+354,250,Anemia,Ibuprofen,As needed,14,Refer to specialist,Yes,Critical
+355,1582,Gastritis,Sertraline,Once daily,10,Follow-up in 2 weeks,No,Improving
+356,917,Anemia,Cetirizine,Twice daily,10,Monitor blood pressure,No,Needs Follow-up
+357,111,Gastritis,Amoxicillin,Three times daily,14,Lab tests required,No,Stable
+358,1480,Flu,Omeprazole,Three times daily,30,Rest advised,No,Critical
+359,1313,Appendicitis,Amoxicillin,Three times daily,21,Patient responded well,No,Critical
+360,40,Anemia,Cetirizine,Twice daily,14,Patient responded well,Yes,Recovered
+361,1214,Dermatitis,Metformin,As needed,10,Dietary changes recommended,No,Stable
+362,1647,Anemia,Sertraline,Twice daily,10,Follow-up in 2 weeks,No,Stable
+363,762,Anxiety Disorder,Omeprazole,As needed,10,Rest advised,No,Improving
+364,1548,Kidney Stones,Metformin,Once daily,14,Lab tests required,Yes,Improving
+365,611,Asthma,Paracetamol,Three times daily,10,Monitor blood pressure,Yes,Recovered
+366,1561,Asthma,Amlodipine,As needed,5,Lab tests required,Yes,Critical
+367,451,Depression,Omeprazole,Twice daily,7,Dietary changes recommended,Yes,Improving
+368,882,Fracture,Paracetamol,Twice daily,10,Patient responded well,No,Critical
+369,1008,Depression,Ibuprofen,As needed,14,Patient responded well,Yes,Critical
+370,718,Appendicitis,Amoxicillin,Three times daily,14,Monitor blood pressure,No,Stable
+371,1246,Asthma,Amlodipine,Once daily,10,Patient responded well,Yes,Critical
+372,1729,Migraine,Amoxicillin,Once daily,5,Dietary changes recommended,No,Improving
+373,752,Type 2 Diabetes,Amlodipine,Once daily,5,Follow-up in 2 weeks,Yes,Stable
+374,17,Back Pain,Omeprazole,Three times daily,5,Monitor blood pressure,No,Critical
+375,1111,Back Pain,Atorvastatin,Twice daily,14,Dietary changes recommended,Yes,Improving
+376,1915,Back Pain,Atorvastatin,Three times daily,21,Monitor blood pressure,Yes,Needs Follow-up
+377,1580,Fracture,Paracetamol,Three times daily,14,Dietary changes recommended,No,Stable
+378,222,Dermatitis,Lisinopril,As needed,10,Patient responded well,No,Improving
+379,1744,Fracture,Amoxicillin,Three times daily,21,Dietary changes recommended,No,Needs Follow-up
+380,880,Asthma,Atorvastatin,Twice daily,14,Lab tests required,No,Improving
+381,727,Hypertension,Sertraline,Once daily,21,Monitor blood pressure,Yes,Improving
+382,1875,Gastritis,Sertraline,As needed,7,Follow-up in 2 weeks,Yes,Improving
+383,492,Back Pain,Sertraline,Three times daily,10,Follow-up in 2 weeks,No,Needs Follow-up
+384,1443,Type 2 Diabetes,Omeprazole,Twice daily,30,Follow-up in 2 weeks,No,Stable
+385,1684,Migraine,Omeprazole,Three times daily,5,Patient responded well,No,Recovered
+386,1046,Anemia,Sertraline,Once daily,10,Patient responded well,No,Recovered
+387,1780,Asthma,Omeprazole,Once daily,5,Refer to specialist,Yes,Improving
+388,1891,Coronary Artery Disease,Atorvastatin,Twice daily,14,Rest advised,Yes,Stable
+389,779,Asthma,Atorvastatin,As needed,14,Rest advised,Yes,Critical
+390,1740,Fracture,Lisinopril,Once daily,10,Dietary changes recommended,No,Improving
+391,1654,Type 2 Diabetes,Metformin,Three times daily,10,Follow-up in 2 weeks,Yes,Improving
+392,896,Migraine,Paracetamol,As needed,10,Dietary changes recommended,No,Improving
+393,706,Coronary Artery Disease,Ibuprofen,Once daily,5,Rest advised,Yes,Critical
+394,930,Back Pain,Paracetamol,Three times daily,7,Lab tests required,No,Needs Follow-up
+395,711,Back Pain,Cetirizine,As needed,7,Patient responded well,Yes,Needs Follow-up
+396,1965,Flu,Metformin,As needed,10,Rest advised,No,Stable
+397,147,Depression,Omeprazole,Once daily,10,Monitor blood pressure,Yes,Stable
+398,1732,Hypertension,Paracetamol,Three times daily,10,Dietary changes recommended,No,Recovered
+399,1270,Hypertension,Metformin,Twice daily,5,Lab tests required,Yes,Stable
+400,322,Coronary Artery Disease,Cetirizine,As needed,21,Refer to specialist,No,Needs Follow-up
+401,620,Fracture,Ibuprofen,Three times daily,21,Rest advised,No,Needs Follow-up
+402,557,Appendicitis,Cetirizine,Three times daily,21,Monitor blood pressure,Yes,Needs Follow-up
+403,1521,Migraine,Metformin,Twice daily,14,Patient responded well,No,Improving
+404,1083,Anxiety Disorder,Metformin,As needed,10,Monitor blood pressure,No,Needs Follow-up
+405,1596,Migraine,Amlodipine,Once daily,5,Patient responded well,No,Recovered
+406,408,Type 2 Diabetes,Cetirizine,As needed,7,Refer to specialist,No,Needs Follow-up
+407,1335,Flu,Lisinopril,As needed,7,Dietary changes recommended,Yes,Improving
+408,533,Back Pain,Sertraline,Once daily,7,Follow-up in 2 weeks,No,Stable
+409,52,Type 2 Diabetes,Omeprazole,As needed,21,Monitor blood pressure,Yes,Improving
+410,37,Flu,Paracetamol,Three times daily,14,Rest advised,No,Needs Follow-up
+411,651,Coronary Artery Disease,Metformin,As needed,21,Follow-up in 2 weeks,Yes,Improving
+412,387,Kidney Stones,Atorvastatin,Three times daily,14,Refer to specialist,Yes,Needs Follow-up
+413,563,Gastritis,Metformin,As needed,5,Follow-up in 2 weeks,Yes,Stable
+414,505,Fracture,Paracetamol,As needed,21,Follow-up in 2 weeks,No,Recovered
+415,1462,Flu,Cetirizine,Twice daily,7,Dietary changes recommended,Yes,Needs Follow-up
+416,350,Kidney Stones,Amoxicillin,As needed,10,Dietary changes recommended,No,Critical
+417,735,Anxiety Disorder,Cetirizine,Twice daily,14,Monitor blood pressure,No,Critical
+418,316,Migraine,Ibuprofen,As needed,5,Refer to specialist,Yes,Needs Follow-up
+419,59,Anxiety Disorder,Lisinopril,Once daily,30,Lab tests required,Yes,Stable
+420,921,Gastritis,Omeprazole,Three times daily,5,Refer to specialist,No,Stable
+421,1155,Gastritis,Amoxicillin,Three times daily,14,Follow-up in 2 weeks,No,Recovered
+422,622,Migraine,Metformin,Once daily,5,Monitor blood pressure,No,Critical
+423,1401,Appendicitis,Lisinopril,Three times daily,7,Lab tests required,Yes,Stable
+424,885,Kidney Stones,Amlodipine,Once daily,14,Rest advised,Yes,Needs Follow-up
+425,1350,Anemia,Amoxicillin,Once daily,7,Follow-up in 2 weeks,No,Critical
+426,971,Dermatitis,Amlodipine,Twice daily,5,Lab tests required,No,Needs Follow-up
+427,297,Anxiety Disorder,Atorvastatin,As needed,21,Monitor blood pressure,No,Stable
+428,1380,Dermatitis,Omeprazole,As needed,10,Dietary changes recommended,No,Recovered
+429,695,Coronary Artery Disease,Metformin,Twice daily,10,Follow-up in 2 weeks,No,Recovered
+430,129,Fracture,Amlodipine,Once daily,7,Lab tests required,Yes,Needs Follow-up
+431,173,Depression,Amoxicillin,Once daily,7,Refer to specialist,Yes,Stable
+432,1002,Asthma,Lisinopril,Three times daily,21,Refer to specialist,Yes,Needs Follow-up
+433,1532,Dermatitis,Paracetamol,Three times daily,30,Follow-up in 2 weeks,Yes,Critical
+434,1021,Asthma,Paracetamol,Once daily,14,Dietary changes recommended,Yes,Needs Follow-up
+435,569,Coronary Artery Disease,Omeprazole,As needed,5,Monitor blood pressure,No,Improving
+436,216,Anxiety Disorder,Ibuprofen,As needed,7,Follow-up in 2 weeks,Yes,Recovered
+437,891,Asthma,Metformin,Once daily,5,Monitor blood pressure,Yes,Recovered
+438,1491,Dermatitis,Sertraline,Three times daily,30,Rest advised,No,Recovered
+439,1839,Asthma,Ibuprofen,Twice daily,10,Patient responded well,Yes,Stable
+440,1942,Migraine,Cetirizine,Three times daily,30,Dietary changes recommended,No,Improving
+441,519,Migraine,Metformin,As needed,5,Monitor blood pressure,No,Critical
+442,328,Depression,Cetirizine,As needed,21,Lab tests required,No,Stable
+443,1931,Anxiety Disorder,Amoxicillin,Once daily,21,Rest advised,Yes,Needs Follow-up
+444,1087,Anemia,Ibuprofen,Three times daily,30,Follow-up in 2 weeks,No,Needs Follow-up
+445,597,Migraine,Cetirizine,Once daily,21,Follow-up in 2 weeks,No,Improving
+446,1360,Anxiety Disorder,Ibuprofen,Twice daily,7,Rest advised,Yes,Needs Follow-up
+447,731,Back Pain,Atorvastatin,Twice daily,5,Lab tests required,No,Needs Follow-up
+448,1123,Asthma,Ibuprofen,As needed,21,Refer to specialist,Yes,Stable
+449,18,Migraine,Metformin,Three times daily,10,Patient responded well,Yes,Recovered
+450,1560,Coronary Artery Disease,Amoxicillin,As needed,30,Monitor blood pressure,No,Stable
+451,592,Back Pain,Amoxicillin,Twice daily,5,Dietary changes recommended,Yes,Recovered
+452,560,Asthma,Sertraline,Twice daily,7,Follow-up in 2 weeks,No,Improving
+453,1314,Type 2 Diabetes,Paracetamol,Once daily,10,Rest advised,No,Critical
+454,256,Appendicitis,Omeprazole,As needed,30,Refer to specialist,No,Stable
+455,833,Type 2 Diabetes,Atorvastatin,As needed,21,Rest advised,Yes,Stable
+456,255,Dermatitis,Ibuprofen,As needed,5,Follow-up in 2 weeks,Yes,Stable
+457,1547,Asthma,Paracetamol,Twice daily,21,Lab tests required,Yes,Improving
+458,658,Gastritis,Paracetamol,Once daily,14,Patient responded well,No,Needs Follow-up
+459,1061,Asthma,Lisinopril,As needed,30,Lab tests required,Yes,Critical
+460,329,Depression,Sertraline,As needed,5,Patient responded well,Yes,Needs Follow-up
+461,1325,Type 2 Diabetes,Metformin,Once daily,21,Monitor blood pressure,No,Recovered
+462,1558,Gastritis,Amlodipine,Twice daily,14,Lab tests required,Yes,Needs Follow-up
+463,374,Type 2 Diabetes,Paracetamol,Twice daily,21,Dietary changes recommended,Yes,Improving
+464,1315,Hypertension,Omeprazole,Twice daily,14,Lab tests required,No,Recovered
+465,503,Asthma,Atorvastatin,As needed,21,Dietary changes recommended,Yes,Recovered
+466,968,Flu,Atorvastatin,As needed,14,Lab tests required,Yes,Improving
+467,463,Hypertension,Paracetamol,As needed,7,Refer to specialist,No,Stable
+468,1735,Dermatitis,Paracetamol,Three times daily,10,Rest advised,No,Improving
+469,984,Back Pain,Ibuprofen,Once daily,10,Dietary changes recommended,No,Improving
+470,879,Anxiety Disorder,Metformin,Once daily,7,Patient responded well,No,Critical
+471,892,Hypertension,Cetirizine,As needed,21,Rest advised,Yes,Critical
+472,1197,Asthma,Amlodipine,As needed,10,Dietary changes recommended,Yes,Critical
+473,540,Anemia,Cetirizine,Three times daily,5,Dietary changes recommended,No,Critical
+474,964,Depression,Metformin,Twice daily,7,Lab tests required,Yes,Recovered
+475,632,Type 2 Diabetes,Lisinopril,Three times daily,10,Patient responded well,No,Critical
+476,1408,Anemia,Ibuprofen,Once daily,14,Dietary changes recommended,Yes,Recovered
+477,449,Gastritis,Paracetamol,As needed,21,Lab tests required,No,Improving
+478,1271,Gastritis,Ibuprofen,As needed,10,Rest advised,No,Improving
+479,1033,Anemia,Metformin,Twice daily,21,Monitor blood pressure,Yes,Recovered
+480,1736,Anemia,Amlodipine,As needed,5,Monitor blood pressure,Yes,Needs Follow-up
+481,392,Gastritis,Metformin,Twice daily,10,Refer to specialist,Yes,Improving
+482,474,Fracture,Sertraline,Three times daily,10,Monitor blood pressure,Yes,Improving
+483,1999,Kidney Stones,Atorvastatin,Twice daily,5,Rest advised,No,Recovered
+484,1180,Asthma,Ibuprofen,As needed,14,Patient responded well,Yes,Critical
+485,1734,Anxiety Disorder,Amoxicillin,As needed,7,Patient responded well,Yes,Stable
+486,466,Fracture,Ibuprofen,Once daily,10,Patient responded well,Yes,Recovered
+487,1168,Asthma,Metformin,Three times daily,14,Dietary changes recommended,Yes,Needs Follow-up
+488,352,Kidney Stones,Paracetamol,Three times daily,30,Patient responded well,Yes,Stable
+489,494,Migraine,Omeprazole,Once daily,14,Monitor blood pressure,No,Stable
+490,1109,Anemia,Cetirizine,Three times daily,10,Refer to specialist,Yes,Recovered
+491,1346,Gastritis,Amoxicillin,Twice daily,21,Follow-up in 2 weeks,Yes,Improving
+492,1916,Back Pain,Paracetamol,Twice daily,5,Follow-up in 2 weeks,No,Recovered
+493,1730,Dermatitis,Lisinopril,Once daily,21,Rest advised,No,Stable
+494,1249,Coronary Artery Disease,Atorvastatin,As needed,10,Patient responded well,No,Recovered
+495,192,Coronary Artery Disease,Atorvastatin,Once daily,14,Patient responded well,Yes,Improving
+496,1378,Back Pain,Amoxicillin,Three times daily,30,Dietary changes recommended,Yes,Needs Follow-up
+497,1254,Coronary Artery Disease,Amlodipine,As needed,30,Follow-up in 2 weeks,No,Improving
+498,1859,Anemia,Omeprazole,Once daily,7,Lab tests required,No,Needs Follow-up
+499,923,Type 2 Diabetes,Omeprazole,As needed,21,Monitor blood pressure,No,Improving
+500,1340,Back Pain,Atorvastatin,As needed,10,Rest advised,No,Needs Follow-up
+501,1235,Kidney Stones,Paracetamol,Once daily,30,Rest advised,Yes,Stable
+502,959,Back Pain,Omeprazole,As needed,5,Refer to specialist,No,Critical
+503,385,Gastritis,Metformin,As needed,10,Lab tests required,Yes,Critical
+504,1100,Type 2 Diabetes,Metformin,Twice daily,21,Rest advised,No,Improving
+505,1820,Asthma,Lisinopril,Twice daily,30,Patient responded well,Yes,Recovered
+506,438,Depression,Atorvastatin,Once daily,21,Follow-up in 2 weeks,No,Improving
+507,1903,Anemia,Amlodipine,Once daily,5,Follow-up in 2 weeks,No,Needs Follow-up
+508,1822,Coronary Artery Disease,Omeprazole,As needed,7,Patient responded well,No,Critical
+509,454,Kidney Stones,Atorvastatin,Twice daily,30,Monitor blood pressure,No,Improving
+510,358,Depression,Paracetamol,Once daily,14,Monitor blood pressure,No,Improving
+511,1830,Gastritis,Ibuprofen,As needed,5,Monitor blood pressure,No,Needs Follow-up
+512,429,Fracture,Sertraline,Twice daily,7,Refer to specialist,No,Recovered
+513,654,Anemia,Ibuprofen,Twice daily,30,Refer to specialist,No,Recovered
+514,1960,Anemia,Amoxicillin,Once daily,21,Monitor blood pressure,No,Recovered
+515,28,Back Pain,Amlodipine,Twice daily,10,Dietary changes recommended,Yes,Improving
+516,828,Flu,Paracetamol,As needed,10,Lab tests required,No,Improving
+517,1191,Depression,Amoxicillin,Once daily,7,Dietary changes recommended,Yes,Needs Follow-up
+518,1063,Fracture,Lisinopril,Twice daily,30,Follow-up in 2 weeks,Yes,Improving
+519,1890,Hypertension,Amlodipine,As needed,5,Dietary changes recommended,No,Critical
+520,1812,Asthma,Omeprazole,Three times daily,7,Lab tests required,No,Needs Follow-up
+521,1776,Fracture,Lisinopril,Twice daily,5,Follow-up in 2 weeks,Yes,Stable
+522,274,Gastritis,Metformin,Twice daily,10,Monitor blood pressure,Yes,Recovered
+523,230,Dermatitis,Omeprazole,As needed,21,Lab tests required,No,Critical
+524,356,Dermatitis,Amlodipine,Once daily,21,Refer to specialist,Yes,Critical
+525,74,Hypertension,Amoxicillin,As needed,7,Rest advised,Yes,Recovered
+526,1291,Fracture,Cetirizine,Once daily,10,Follow-up in 2 weeks,No,Needs Follow-up
+527,1446,Fracture,Atorvastatin,As needed,21,Patient responded well,Yes,Stable
+528,783,Type 2 Diabetes,Ibuprofen,Three times daily,10,Refer to specialist,No,Recovered
+529,1384,Dermatitis,Lisinopril,Three times daily,21,Patient responded well,No,Critical
+530,202,Fracture,Atorvastatin,Twice daily,5,Follow-up in 2 weeks,Yes,Needs Follow-up
+531,954,Appendicitis,Cetirizine,As needed,14,Rest advised,No,Needs Follow-up
+532,1837,Type 2 Diabetes,Metformin,Three times daily,7,Rest advised,Yes,Improving
+533,746,Back Pain,Metformin,Twice daily,10,Follow-up in 2 weeks,Yes,Needs Follow-up
+534,1167,Kidney Stones,Amoxicillin,Once daily,7,Lab tests required,Yes,Improving
+535,346,Type 2 Diabetes,Ibuprofen,Twice daily,5,Refer to specialist,Yes,Recovered
+536,902,Coronary Artery Disease,Metformin,Twice daily,7,Patient responded well,Yes,Improving
+537,1053,Fracture,Lisinopril,Once daily,5,Lab tests required,No,Critical
+538,839,Fracture,Metformin,Twice daily,21,Patient responded well,Yes,Recovered
+539,1591,Back Pain,Atorvastatin,Three times daily,30,Patient responded well,Yes,Improving
+540,822,Anxiety Disorder,Lisinopril,Three times daily,14,Follow-up in 2 weeks,No,Recovered
+541,910,Dermatitis,Paracetamol,Once daily,30,Dietary changes recommended,Yes,Needs Follow-up
+542,1497,Flu,Cetirizine,Once daily,14,Dietary changes recommended,No,Needs Follow-up
+543,161,Depression,Atorvastatin,Three times daily,14,Rest advised,No,Stable
+544,1771,Migraine,Atorvastatin,Three times daily,10,Monitor blood pressure,No,Critical
+545,249,Appendicitis,Atorvastatin,As needed,21,Patient responded well,Yes,Needs Follow-up
+546,167,Flu,Amoxicillin,As needed,14,Patient responded well,No,Improving
+547,1287,Hypertension,Atorvastatin,Once daily,14,Refer to specialist,Yes,Needs Follow-up
+548,894,Dermatitis,Metformin,As needed,10,Rest advised,Yes,Stable
+549,703,Gastritis,Metformin,Twice daily,21,Patient responded well,No,Recovered
+550,203,Dermatitis,Omeprazole,Once daily,10,Patient responded well,No,Needs Follow-up
+551,99,Dermatitis,Ibuprofen,Three times daily,5,Dietary changes recommended,Yes,Improving
+552,1569,Flu,Sertraline,As needed,30,Patient responded well,Yes,Recovered
+553,1608,Migraine,Lisinopril,Twice daily,10,Refer to specialist,No,Recovered
+554,1644,Kidney Stones,Atorvastatin,Once daily,5,Rest advised,Yes,Recovered
+555,751,Flu,Cetirizine,Three times daily,21,Lab tests required,Yes,Needs Follow-up
+556,66,Dermatitis,Lisinopril,Three times daily,14,Lab tests required,Yes,Recovered
+557,1128,Type 2 Diabetes,Cetirizine,Twice daily,30,Rest advised,Yes,Needs Follow-up
+558,529,Asthma,Omeprazole,Three times daily,10,Lab tests required,No,Critical
+559,1843,Kidney Stones,Sertraline,Twice daily,30,Lab tests required,Yes,Stable
+560,1992,Migraine,Omeprazole,Three times daily,21,Patient responded well,No,Improving
+561,1612,Gastritis,Lisinopril,Twice daily,30,Follow-up in 2 weeks,Yes,Recovered
+562,307,Dermatitis,Lisinopril,Once daily,7,Patient responded well,Yes,Critical
+563,457,Gastritis,Ibuprofen,Twice daily,7,Patient responded well,Yes,Recovered
+564,1451,Fracture,Metformin,Once daily,5,Follow-up in 2 weeks,Yes,Critical
+565,1433,Hypertension,Sertraline,As needed,21,Refer to specialist,No,Needs Follow-up
+566,657,Anemia,Paracetamol,Once daily,21,Lab tests required,No,Needs Follow-up
+567,1292,Back Pain,Amlodipine,As needed,30,Monitor blood pressure,Yes,Improving
+568,541,Dermatitis,Amoxicillin,As needed,7,Patient responded well,No,Needs Follow-up
+569,1662,Appendicitis,Paracetamol,Once daily,21,Monitor blood pressure,No,Recovered
+570,916,Migraine,Paracetamol,As needed,10,Rest advised,No,Stable
+571,1507,Asthma,Atorvastatin,As needed,30,Rest advised,No,Critical
+572,1932,Anxiety Disorder,Ibuprofen,Three times daily,21,Follow-up in 2 weeks,Yes,Critical
+573,1332,Type 2 Diabetes,Cetirizine,Twice daily,14,Dietary changes recommended,Yes,Needs Follow-up
+574,1215,Asthma,Omeprazole,Once daily,30,Follow-up in 2 weeks,No,Stable
+575,21,Migraine,Cetirizine,Three times daily,21,Dietary changes recommended,No,Needs Follow-up
+576,65,Type 2 Diabetes,Sertraline,Once daily,10,Patient responded well,Yes,Critical
+577,480,Gastritis,Lisinopril,Once daily,5,Dietary changes recommended,No,Stable
+578,443,Coronary Artery Disease,Omeprazole,As needed,21,Rest advised,No,Recovered
+579,1986,Anemia,Metformin,Three times daily,14,Patient responded well,Yes,Recovered
+580,1762,Appendicitis,Metformin,Twice daily,7,Lab tests required,Yes,Improving
+581,1914,Asthma,Amlodipine,Once daily,7,Patient responded well,Yes,Stable
+582,614,Back Pain,Amoxicillin,Three times daily,30,Rest advised,No,Stable
+583,104,Anxiety Disorder,Omeprazole,Once daily,7,Rest advised,No,Recovered
+584,233,Fracture,Amlodipine,Twice daily,7,Patient responded well,No,Recovered
+585,962,Flu,Omeprazole,As needed,14,Monitor blood pressure,Yes,Needs Follow-up
+586,1303,Asthma,Paracetamol,Once daily,5,Refer to specialist,No,Needs Follow-up
+587,1336,Coronary Artery Disease,Omeprazole,Once daily,30,Monitor blood pressure,No,Improving
+588,82,Fracture,Atorvastatin,As needed,30,Patient responded well,Yes,Recovered
+589,1858,Gastritis,Atorvastatin,Once daily,10,Follow-up in 2 weeks,No,Recovered
+590,223,Kidney Stones,Cetirizine,Twice daily,30,Follow-up in 2 weeks,No,Critical
+591,1912,Kidney Stones,Metformin,As needed,21,Monitor blood pressure,No,Improving
+592,170,Kidney Stones,Ibuprofen,Three times daily,14,Refer to specialist,Yes,Needs Follow-up
+593,215,Dermatitis,Metformin,Once daily,30,Rest advised,Yes,Needs Follow-up
+594,1163,Hypertension,Ibuprofen,As needed,21,Lab tests required,Yes,Recovered
+595,325,Type 2 Diabetes,Amoxicillin,Once daily,10,Refer to specialist,Yes,Critical
+596,724,Dermatitis,Atorvastatin,Twice daily,7,Refer to specialist,Yes,Critical
+597,538,Depression,Omeprazole,Once daily,14,Rest advised,No,Recovered
+598,1952,Back Pain,Sertraline,Once daily,14,Refer to specialist,Yes,Critical
+599,1078,Type 2 Diabetes,Amoxicillin,Once daily,14,Monitor blood pressure,No,Critical
+600,1276,Asthma,Metformin,As needed,10,Patient responded well,No,Critical
+601,940,Appendicitis,Amoxicillin,Twice daily,21,Monitor blood pressure,No,Recovered
+602,631,Anxiety Disorder,Omeprazole,As needed,7,Refer to specialist,Yes,Recovered
+603,302,Gastritis,Sertraline,Twice daily,5,Monitor blood pressure,Yes,Recovered
+604,1767,Fracture,Metformin,Twice daily,14,Patient responded well,No,Recovered
+605,1149,Anemia,Paracetamol,As needed,7,Dietary changes recommended,No,Needs Follow-up
+606,1813,Anemia,Atorvastatin,Twice daily,30,Patient responded well,No,Critical
+607,993,Back Pain,Omeprazole,Three times daily,5,Lab tests required,No,Stable
+608,736,Appendicitis,Omeprazole,Three times daily,14,Dietary changes recommended,Yes,Critical
+609,1833,Gastritis,Ibuprofen,Three times daily,14,Rest advised,No,Stable
+610,872,Type 2 Diabetes,Ibuprofen,Once daily,7,Lab tests required,Yes,Critical
+611,681,Coronary Artery Disease,Ibuprofen,Once daily,21,Patient responded well,No,Stable
+612,1264,Gastritis,Sertraline,As needed,7,Dietary changes recommended,Yes,Critical
+613,1638,Gastritis,Lisinopril,Twice daily,30,Follow-up in 2 weeks,Yes,Recovered
+614,1657,Coronary Artery Disease,Amlodipine,Three times daily,30,Rest advised,Yes,Stable
+615,1161,Appendicitis,Cetirizine,Twice daily,30,Patient responded well,Yes,Stable
+616,1463,Flu,Cetirizine,As needed,5,Monitor blood pressure,Yes,Needs Follow-up
+617,412,Migraine,Ibuprofen,Three times daily,10,Rest advised,No,Recovered
+618,576,Depression,Cetirizine,Once daily,5,Dietary changes recommended,Yes,Critical
+619,868,Kidney Stones,Metformin,Once daily,21,Patient responded well,Yes,Stable
+620,1673,Appendicitis,Lisinopril,As needed,5,Patient responded well,No,Stable
+621,301,Depression,Amlodipine,Once daily,14,Refer to specialist,No,Stable
+622,410,Flu,Paracetamol,As needed,21,Follow-up in 2 weeks,Yes,Improving
+623,1976,Type 2 Diabetes,Atorvastatin,Once daily,21,Dietary changes recommended,No,Recovered
+624,1883,Anemia,Amlodipine,As needed,7,Patient responded well,Yes,Needs Follow-up
+625,1979,Fracture,Omeprazole,Once daily,10,Follow-up in 2 weeks,Yes,Critical
+626,1231,Fracture,Amlodipine,Twice daily,7,Lab tests required,No,Stable
+627,136,Back Pain,Amoxicillin,As needed,14,Patient responded well,No,Needs Follow-up
+628,1226,Appendicitis,Sertraline,As needed,10,Follow-up in 2 weeks,Yes,Critical
+629,1720,Migraine,Omeprazole,As needed,10,Dietary changes recommended,Yes,Critical
+630,855,Depression,Cetirizine,Twice daily,21,Patient responded well,No,Needs Follow-up
+631,865,Depression,Cetirizine,Once daily,10,Monitor blood pressure,Yes,Critical
+632,1110,Depression,Metformin,Once daily,14,Monitor blood pressure,No,Critical
+633,75,Anemia,Ibuprofen,Twice daily,21,Follow-up in 2 weeks,Yes,Needs Follow-up
+634,327,Flu,Cetirizine,Once daily,21,Lab tests required,Yes,Stable
+635,1845,Appendicitis,Cetirizine,Twice daily,21,Patient responded well,Yes,Needs Follow-up
+636,1594,Anxiety Disorder,Omeprazole,Once daily,5,Rest advised,Yes,Stable
+637,304,Kidney Stones,Sertraline,As needed,14,Lab tests required,No,Recovered
+638,652,Appendicitis,Atorvastatin,Once daily,7,Refer to specialist,No,Recovered
+639,1140,Anemia,Cetirizine,Twice daily,7,Follow-up in 2 weeks,Yes,Critical
+640,213,Flu,Paracetamol,As needed,7,Follow-up in 2 weeks,No,Stable
+641,1347,Asthma,Atorvastatin,Twice daily,14,Patient responded well,Yes,Stable
+642,393,Hypertension,Atorvastatin,Three times daily,30,Monitor blood pressure,Yes,Critical
+643,310,Depression,Omeprazole,Three times daily,7,Refer to specialist,Yes,Critical
+644,498,Depression,Paracetamol,Three times daily,7,Dietary changes recommended,Yes,Needs Follow-up
+645,720,Depression,Amoxicillin,Twice daily,30,Lab tests required,Yes,Needs Follow-up
+646,1233,Depression,Ibuprofen,Three times daily,14,Follow-up in 2 weeks,Yes,Recovered
+647,1013,Kidney Stones,Ibuprofen,As needed,5,Patient responded well,Yes,Improving
+648,421,Hypertension,Paracetamol,Twice daily,14,Monitor blood pressure,Yes,Improving
+649,1341,Coronary Artery Disease,Metformin,Three times daily,21,Rest advised,Yes,Needs Follow-up
+650,1472,Hypertension,Ibuprofen,Three times daily,21,Rest advised,No,Improving
+651,171,Type 2 Diabetes,Metformin,As needed,21,Follow-up in 2 weeks,Yes,Needs Follow-up
+652,30,Hypertension,Amoxicillin,Once daily,5,Lab tests required,Yes,Recovered
+653,1121,Dermatitis,Omeprazole,Once daily,7,Patient responded well,No,Critical
+654,368,Depression,Amlodipine,Twice daily,7,Refer to specialist,Yes,Recovered
+655,1203,Dermatitis,Omeprazole,Once daily,7,Patient responded well,Yes,Recovered
+656,907,Asthma,Ibuprofen,Three times daily,14,Patient responded well,Yes,Needs Follow-up
+657,660,Gastritis,Metformin,Twice daily,30,Monitor blood pressure,No,Stable
+658,794,Fracture,Amlodipine,Three times daily,21,Follow-up in 2 weeks,No,Needs Follow-up
+659,1219,Depression,Paracetamol,Twice daily,5,Rest advised,Yes,Needs Follow-up
+660,850,Hypertension,Ibuprofen,Three times daily,5,Dietary changes recommended,No,Stable
+661,1080,Dermatitis,Atorvastatin,Twice daily,30,Follow-up in 2 weeks,Yes,Needs Follow-up
+662,1343,Flu,Paracetamol,As needed,14,Lab tests required,Yes,Critical
+663,1599,Fracture,Omeprazole,Once daily,10,Refer to specialist,Yes,Critical
+664,1704,Back Pain,Sertraline,Once daily,10,Refer to specialist,Yes,Recovered
+665,1853,Flu,Cetirizine,Twice daily,30,Monitor blood pressure,No,Improving
+666,1306,Anxiety Disorder,Atorvastatin,Twice daily,21,Dietary changes recommended,Yes,Critical
+667,448,Coronary Artery Disease,Paracetamol,As needed,30,Lab tests required,No,Needs Follow-up
+668,1305,Asthma,Amlodipine,Three times daily,30,Patient responded well,No,Needs Follow-up
+669,1058,Migraine,Lisinopril,Twice daily,14,Follow-up in 2 weeks,No,Stable
+670,1387,Type 2 Diabetes,Metformin,Once daily,5,Rest advised,Yes,Improving
+671,242,Coronary Artery Disease,Ibuprofen,Twice daily,30,Monitor blood pressure,Yes,Needs Follow-up
+672,1356,Type 2 Diabetes,Cetirizine,Three times daily,21,Dietary changes recommended,No,Improving
+673,1552,Dermatitis,Atorvastatin,As needed,10,Dietary changes recommended,No,Recovered
+674,1505,Depression,Paracetamol,As needed,14,Follow-up in 2 weeks,Yes,Critical
+675,455,Appendicitis,Paracetamol,Once daily,14,Rest advised,Yes,Stable
+676,1296,Anxiety Disorder,Amlodipine,Twice daily,21,Refer to specialist,Yes,Critical
+677,729,Dermatitis,Metformin,As needed,10,Dietary changes recommended,Yes,Recovered
+678,417,Anemia,Paracetamol,As needed,30,Dietary changes recommended,Yes,Recovered
+679,1441,Flu,Amlodipine,Once daily,10,Refer to specialist,No,Improving
+680,1849,Anemia,Ibuprofen,Twice daily,5,Follow-up in 2 weeks,Yes,Needs Follow-up
+681,1094,Migraine,Sertraline,Three times daily,30,Dietary changes recommended,No,Critical
+682,994,Anxiety Disorder,Lisinopril,Twice daily,14,Monitor blood pressure,No,Stable
+683,513,Anemia,Cetirizine,As needed,14,Rest advised,No,Needs Follow-up
+684,93,Appendicitis,Sertraline,Three times daily,14,Patient responded well,No,Stable
+685,1603,Anemia,Sertraline,Twice daily,10,Monitor blood pressure,No,Improving
+686,362,Coronary Artery Disease,Sertraline,Three times daily,10,Rest advised,Yes,Needs Follow-up
+687,844,Dermatitis,Paracetamol,Once daily,7,Follow-up in 2 weeks,No,Stable
+688,591,Kidney Stones,Ibuprofen,Three times daily,21,Patient responded well,Yes,Improving
+689,1593,Dermatitis,Ibuprofen,Three times daily,21,Patient responded well,Yes,Recovered
+690,262,Anemia,Omeprazole,Twice daily,5,Lab tests required,Yes,Needs Follow-up
+691,1277,Depression,Paracetamol,As needed,21,Dietary changes recommended,Yes,Critical
+692,876,Kidney Stones,Paracetamol,Three times daily,21,Refer to specialist,No,Critical
+693,965,Flu,Amlodipine,Once daily,21,Rest advised,Yes,Improving
+694,1696,Back Pain,Omeprazole,As needed,30,Patient responded well,Yes,Critical
+695,630,Anxiety Disorder,Lisinopril,Three times daily,5,Lab tests required,Yes,Needs Follow-up
+696,1844,Depression,Ibuprofen,Three times daily,14,Dietary changes recommended,No,Recovered
+697,289,Coronary Artery Disease,Amlodipine,Once daily,30,Patient responded well,No,Stable
+698,707,Gastritis,Ibuprofen,Twice daily,7,Follow-up in 2 weeks,Yes,Critical
+699,1112,Depression,Lisinopril,As needed,14,Rest advised,No,Improving
+700,254,Asthma,Ibuprofen,Three times daily,21,Refer to specialist,No,Recovered
+701,1866,Gastritis,Sertraline,Twice daily,5,Monitor blood pressure,Yes,Needs Follow-up
+702,320,Migraine,Lisinopril,Once daily,10,Monitor blood pressure,Yes,Recovered
+703,1682,Dermatitis,Cetirizine,Three times daily,21,Lab tests required,Yes,Improving
+704,820,Flu,Atorvastatin,As needed,5,Monitor blood pressure,No,Critical
+705,960,Flu,Paracetamol,As needed,10,Patient responded well,Yes,Recovered
+706,373,Asthma,Ibuprofen,Twice daily,14,Refer to specialist,No,Stable
+707,19,Back Pain,Atorvastatin,Three times daily,21,Refer to specialist,Yes,Critical
+708,1828,Kidney Stones,Metformin,Three times daily,5,Patient responded well,No,Improving
+709,27,Flu,Amoxicillin,As needed,21,Patient responded well,No,Needs Follow-up
+710,1610,Gastritis,Sertraline,As needed,21,Lab tests required,No,Recovered
+711,1354,Asthma,Paracetamol,Twice daily,10,Monitor blood pressure,Yes,Needs Follow-up
+712,1365,Anxiety Disorder,Cetirizine,Twice daily,10,Patient responded well,Yes,Improving
+713,1055,Coronary Artery Disease,Omeprazole,Twice daily,21,Refer to specialist,No,Stable
+714,1526,Depression,Ibuprofen,Twice daily,21,Monitor blood pressure,No,Stable
+715,1015,Asthma,Sertraline,As needed,30,Refer to specialist,No,Stable
+716,1097,Kidney Stones,Omeprazole,Once daily,30,Patient responded well,No,Stable
+717,364,Dermatitis,Lisinopril,As needed,14,Dietary changes recommended,Yes,Improving
+718,36,Migraine,Cetirizine,As needed,7,Rest advised,No,Critical
+719,347,Dermatitis,Amoxicillin,As needed,14,Lab tests required,No,Recovered
+720,1778,Coronary Artery Disease,Amoxicillin,As needed,21,Dietary changes recommended,No,Recovered
+721,403,Type 2 Diabetes,Paracetamol,Three times daily,7,Lab tests required,Yes,Critical
+722,653,Back Pain,Ibuprofen,Once daily,21,Monitor blood pressure,Yes,Recovered
+723,733,Depression,Ibuprofen,Twice daily,10,Dietary changes recommended,No,Needs Follow-up
+724,1316,Hypertension,Amlodipine,Three times daily,21,Patient responded well,Yes,Stable
+725,110,Migraine,Lisinopril,Three times daily,21,Dietary changes recommended,No,Recovered
+726,193,Migraine,Amoxicillin,As needed,14,Rest advised,No,Improving
+727,679,Type 2 Diabetes,Amlodipine,Twice daily,14,Refer to specialist,Yes,Stable
+728,1396,Gastritis,Amoxicillin,Twice daily,7,Follow-up in 2 weeks,Yes,Needs Follow-up
+729,586,Coronary Artery Disease,Cetirizine,Once daily,21,Refer to specialist,No,Recovered
+730,1327,Depression,Metformin,Three times daily,5,Refer to specialist,Yes,Needs Follow-up
+731,957,Gastritis,Ibuprofen,Twice daily,7,Monitor blood pressure,No,Improving
+732,677,Coronary Artery Disease,Paracetamol,As needed,5,Refer to specialist,No,Critical
+733,1564,Dermatitis,Lisinopril,Twice daily,30,Monitor blood pressure,Yes,Critical
+734,747,Depression,Metformin,Twice daily,14,Follow-up in 2 weeks,Yes,Needs Follow-up
+735,1351,Anxiety Disorder,Cetirizine,As needed,14,Lab tests required,Yes,Recovered
+736,1551,Flu,Cetirizine,Twice daily,5,Dietary changes recommended,No,Critical
+737,1144,Anxiety Disorder,Lisinopril,Once daily,7,Lab tests required,No,Critical
+738,92,Back Pain,Cetirizine,As needed,7,Refer to specialist,No,Stable
+739,1131,Anxiety Disorder,Paracetamol,As needed,21,Patient responded well,No,Improving
+740,1874,Back Pain,Lisinopril,As needed,14,Patient responded well,Yes,Critical
+741,1787,Type 2 Diabetes,Metformin,Once daily,30,Monitor blood pressure,Yes,Needs Follow-up
+742,334,Back Pain,Lisinopril,As needed,5,Lab tests required,No,Critical
+743,88,Migraine,Sertraline,As needed,7,Refer to specialist,No,Improving
+744,1048,Anemia,Paracetamol,Twice daily,5,Refer to specialist,Yes,Stable
+745,1483,Dermatitis,Amlodipine,Twice daily,30,Dietary changes recommended,No,Improving
+746,1517,Dermatitis,Lisinopril,Three times daily,30,Lab tests required,No,Critical
+747,1648,Fracture,Ibuprofen,As needed,21,Follow-up in 2 weeks,Yes,Improving
+748,764,Anxiety Disorder,Atorvastatin,Twice daily,5,Patient responded well,Yes,Needs Follow-up
+749,273,Depression,Ibuprofen,Twice daily,30,Lab tests required,Yes,Needs Follow-up
+750,1266,Flu,Atorvastatin,Twice daily,10,Dietary changes recommended,No,Needs Follow-up
+751,46,Back Pain,Paracetamol,Three times daily,30,Rest advised,No,Improving
+752,342,Gastritis,Cetirizine,As needed,5,Rest advised,Yes,Recovered
+753,431,Flu,Cetirizine,As needed,21,Rest advised,No,Needs Follow-up
+754,1908,Type 2 Diabetes,Ibuprofen,As needed,21,Lab tests required,Yes,Critical
+755,70,Gastritis,Sertraline,As needed,5,Rest advised,Yes,Recovered
+756,200,Hypertension,Lisinopril,As needed,7,Refer to specialist,No,Recovered
+757,1014,Flu,Metformin,Twice daily,21,Rest advised,No,Critical
+758,1636,Asthma,Metformin,Three times daily,30,Rest advised,No,Improving
+759,873,Kidney Stones,Amlodipine,As needed,21,Refer to specialist,No,Improving
+760,1634,Depression,Sertraline,Once daily,21,Dietary changes recommended,No,Stable
+761,1452,Dermatitis,Sertraline,Three times daily,30,Dietary changes recommended,Yes,Recovered
+762,716,Anemia,Atorvastatin,Once daily,14,Rest advised,No,Stable
+763,260,Flu,Omeprazole,Twice daily,30,Refer to specialist,No,Improving
+764,924,Anemia,Lisinopril,Three times daily,5,Rest advised,No,Improving
+765,1102,Flu,Lisinopril,Twice daily,21,Rest advised,No,Improving
+766,999,Asthma,Ibuprofen,Once daily,7,Rest advised,No,Needs Follow-up
+767,80,Kidney Stones,Cetirizine,Three times daily,5,Monitor blood pressure,Yes,Critical
+768,600,Type 2 Diabetes,Amlodipine,Twice daily,30,Patient responded well,Yes,Critical
+769,942,Kidney Stones,Lisinopril,Once daily,14,Patient responded well,No,Stable
+770,691,Anemia,Amoxicillin,Three times daily,5,Refer to specialist,Yes,Critical
+771,1243,Kidney Stones,Amlodipine,Twice daily,14,Patient responded well,No,Stable
+772,1032,Flu,Paracetamol,Twice daily,14,Rest advised,Yes,Critical
+773,1274,Fracture,Lisinopril,Once daily,30,Lab tests required,Yes,Improving
+774,164,Appendicitis,Atorvastatin,Twice daily,21,Lab tests required,No,Stable
+775,744,Gastritis,Cetirizine,Twice daily,5,Lab tests required,Yes,Critical
+776,777,Kidney Stones,Ibuprofen,As needed,5,Refer to specialist,No,Needs Follow-up
+777,1302,Back Pain,Paracetamol,Once daily,5,Dietary changes recommended,Yes,Needs Follow-up
+778,411,Migraine,Metformin,Once daily,14,Dietary changes recommended,No,Needs Follow-up
+779,801,Dermatitis,Omeprazole,Once daily,21,Refer to specialist,No,Critical
+780,169,Appendicitis,Cetirizine,Once daily,7,Lab tests required,No,Critical
+781,998,Dermatitis,Paracetamol,Three times daily,7,Dietary changes recommended,Yes,Critical
+782,1372,Type 2 Diabetes,Cetirizine,Three times daily,14,Monitor blood pressure,Yes,Improving
+783,1045,Type 2 Diabetes,Amoxicillin,Once daily,7,Refer to specialist,Yes,Critical
+784,1584,Migraine,Amoxicillin,As needed,21,Refer to specialist,No,Improving
+785,288,Coronary Artery Disease,Lisinopril,As needed,21,Follow-up in 2 weeks,No,Critical
+786,515,Fracture,Cetirizine,Twice daily,7,Rest advised,No,Improving
+787,1066,Anxiety Disorder,Paracetamol,Once daily,14,Refer to specialist,Yes,Critical
+788,181,Hypertension,Paracetamol,Three times daily,21,Monitor blood pressure,No,Critical
+789,425,Fracture,Metformin,Twice daily,21,Follow-up in 2 weeks,Yes,Recovered
+790,688,Dermatitis,Omeprazole,Once daily,7,Monitor blood pressure,Yes,Needs Follow-up
+791,1494,Dermatitis,Omeprazole,Three times daily,7,Dietary changes recommended,No,Stable
+792,1345,Asthma,Amlodipine,Once daily,10,Lab tests required,No,Recovered
+793,127,Kidney Stones,Metformin,Twice daily,30,Lab tests required,Yes,Recovered
+794,633,Appendicitis,Amlodipine,Three times daily,21,Patient responded well,Yes,Recovered
+795,1724,Back Pain,Atorvastatin,Once daily,30,Dietary changes recommended,No,Recovered
+796,1545,Dermatitis,Metformin,Once daily,14,Monitor blood pressure,Yes,Critical
+797,860,Type 2 Diabetes,Metformin,Twice daily,30,Dietary changes recommended,Yes,Critical
+798,1523,Kidney Stones,Ibuprofen,As needed,10,Dietary changes recommended,Yes,Needs Follow-up
+799,272,Type 2 Diabetes,Atorvastatin,Three times daily,21,Monitor blood pressure,No,Critical
+800,397,Depression,Sertraline,Twice daily,14,Follow-up in 2 weeks,No,Needs Follow-up
+801,1857,Fracture,Paracetamol,As needed,5,Lab tests required,Yes,Recovered
+802,1790,Depression,Atorvastatin,Twice daily,7,Refer to specialist,No,Needs Follow-up
+803,51,Gastritis,Sertraline,Once daily,30,Dietary changes recommended,No,Needs Follow-up
+804,1622,Back Pain,Atorvastatin,As needed,10,Refer to specialist,No,Improving
+805,1779,Dermatitis,Cetirizine,Three times daily,5,Patient responded well,No,Needs Follow-up
+806,1800,Type 2 Diabetes,Amoxicillin,As needed,14,Refer to specialist,Yes,Recovered
+807,1947,Anemia,Lisinopril,Three times daily,14,Dietary changes recommended,Yes,Needs Follow-up
+808,32,Flu,Omeprazole,Twice daily,10,Follow-up in 2 weeks,Yes,Improving
+809,1261,Asthma,Atorvastatin,Twice daily,14,Patient responded well,Yes,Recovered
+810,1759,Depression,Lisinopril,Three times daily,21,Dietary changes recommended,Yes,Needs Follow-up
+811,1708,Hypertension,Paracetamol,Once daily,21,Patient responded well,Yes,Improving
+812,553,Flu,Atorvastatin,Three times daily,14,Lab tests required,Yes,Critical
+813,1699,Back Pain,Lisinopril,Twice daily,21,Patient responded well,Yes,Critical
+814,781,Hypertension,Amoxicillin,Once daily,30,Patient responded well,Yes,Needs Follow-up
+815,313,Coronary Artery Disease,Ibuprofen,Twice daily,7,Refer to specialist,No,Stable
+816,612,Kidney Stones,Atorvastatin,Twice daily,7,Follow-up in 2 weeks,Yes,Improving
+817,424,Depression,Sertraline,Three times daily,10,Lab tests required,Yes,Critical
+818,1557,Anxiety Disorder,Ibuprofen,Twice daily,10,Refer to specialist,No,Critical
+819,1067,Flu,Amlodipine,Once daily,30,Patient responded well,Yes,Critical
+820,1194,Back Pain,Sertraline,As needed,14,Follow-up in 2 weeks,No,Critical
+821,1000,Back Pain,Amoxicillin,As needed,5,Monitor blood pressure,No,Recovered
+822,1745,Coronary Artery Disease,Metformin,As needed,14,Patient responded well,Yes,Critical
+823,579,Depression,Ibuprofen,Once daily,14,Follow-up in 2 weeks,Yes,Needs Follow-up
+824,1583,Anxiety Disorder,Amoxicillin,Three times daily,7,Dietary changes recommended,No,Stable
+825,1685,Back Pain,Paracetamol,As needed,30,Rest advised,No,Needs Follow-up
+826,1938,Migraine,Ibuprofen,Twice daily,5,Lab tests required,Yes,Improving
+827,1212,Back Pain,Atorvastatin,Once daily,7,Dietary changes recommended,Yes,Stable
+828,1993,Type 2 Diabetes,Omeprazole,Three times daily,30,Follow-up in 2 weeks,Yes,Critical
+829,970,Gastritis,Metformin,As needed,7,Monitor blood pressure,Yes,Critical
+830,153,Gastritis,Atorvastatin,Twice daily,5,Refer to specialist,Yes,Critical
+831,1201,Depression,Ibuprofen,Once daily,10,Patient responded well,No,Needs Follow-up
+832,1936,Hypertension,Paracetamol,Once daily,10,Follow-up in 2 weeks,Yes,Stable
+833,619,Asthma,Lisinopril,As needed,10,Lab tests required,Yes,Needs Follow-up
+834,60,Asthma,Paracetamol,Three times daily,30,Rest advised,Yes,Recovered
+835,1030,Migraine,Amlodipine,Twice daily,5,Dietary changes recommended,No,Critical
+836,1937,Dermatitis,Amlodipine,Once daily,30,Follow-up in 2 weeks,Yes,Needs Follow-up
+837,782,Back Pain,Amoxicillin,As needed,10,Follow-up in 2 weeks,Yes,Improving
+838,106,Appendicitis,Paracetamol,As needed,14,Patient responded well,Yes,Needs Follow-up
+839,1872,Flu,Cetirizine,As needed,30,Patient responded well,No,Stable
+840,1126,Appendicitis,Omeprazole,Once daily,5,Patient responded well,Yes,Stable
+841,1410,Depression,Metformin,As needed,10,Lab tests required,Yes,Needs Follow-up
+842,97,Fracture,Omeprazole,Three times daily,7,Follow-up in 2 weeks,Yes,Critical
+843,1467,Fracture,Amlodipine,As needed,30,Dietary changes recommended,No,Improving
+844,1680,Back Pain,Ibuprofen,Twice daily,5,Dietary changes recommended,Yes,Improving
+845,1911,Kidney Stones,Sertraline,Three times daily,21,Rest advised,No,Stable
+846,34,Asthma,Cetirizine,Once daily,14,Rest advised,No,Recovered
+847,185,Type 2 Diabetes,Amlodipine,Three times daily,21,Patient responded well,Yes,Recovered
+848,1119,Anxiety Disorder,Sertraline,Twice daily,21,Lab tests required,No,Stable
+849,1176,Back Pain,Metformin,Three times daily,30,Refer to specialist,No,Stable
+850,1054,Anxiety Disorder,Omeprazole,As needed,30,Follow-up in 2 weeks,No,Stable
+851,441,Asthma,Cetirizine,Three times daily,7,Follow-up in 2 weeks,Yes,Recovered
+852,944,Coronary Artery Disease,Omeprazole,Once daily,21,Patient responded well,No,Needs Follow-up
+853,1553,Dermatitis,Cetirizine,Twice daily,10,Dietary changes recommended,No,Stable
+854,598,Dermatitis,Ibuprofen,Three times daily,30,Monitor blood pressure,Yes,Critical
+855,1230,Kidney Stones,Amlodipine,Twice daily,10,Rest advised,No,Needs Follow-up
+856,41,Hypertension,Paracetamol,Once daily,10,Monitor blood pressure,No,Critical
+857,1429,Kidney Stones,Paracetamol,Twice daily,5,Patient responded well,Yes,Needs Follow-up
+858,1563,Coronary Artery Disease,Omeprazole,As needed,10,Dietary changes recommended,No,Recovered
+859,361,Gastritis,Ibuprofen,Three times daily,10,Dietary changes recommended,No,Improving
+860,871,Coronary Artery Disease,Atorvastatin,As needed,21,Monitor blood pressure,No,Improving
+861,1388,Hypertension,Sertraline,Once daily,21,Monitor blood pressure,No,Needs Follow-up
+862,1624,Kidney Stones,Ibuprofen,Once daily,7,Rest advised,No,Needs Follow-up
+863,1409,Back Pain,Paracetamol,Once daily,5,Lab tests required,No,Needs Follow-up
+864,861,Anxiety Disorder,Amoxicillin,As needed,5,Patient responded well,No,Improving
+865,29,Asthma,Amlodipine,As needed,10,Patient responded well,Yes,Recovered
+866,640,Fracture,Paracetamol,As needed,5,Refer to specialist,No,Needs Follow-up
+867,1405,Migraine,Metformin,Twice daily,10,Follow-up in 2 weeks,No,Critical
+868,178,Anxiety Disorder,Ibuprofen,Twice daily,14,Follow-up in 2 weeks,Yes,Needs Follow-up
+869,1572,Appendicitis,Amoxicillin,Once daily,5,Lab tests required,No,Improving
+870,125,Hypertension,Ibuprofen,As needed,30,Monitor blood pressure,No,Needs Follow-up
+871,282,Coronary Artery Disease,Atorvastatin,Three times daily,30,Monitor blood pressure,No,Improving
+872,808,Coronary Artery Disease,Lisinopril,Once daily,5,Monitor blood pressure,No,Improving
+873,467,Type 2 Diabetes,Amoxicillin,Twice daily,7,Monitor blood pressure,Yes,Improving
+874,1412,Type 2 Diabetes,Cetirizine,As needed,7,Rest advised,No,Critical
+875,1357,Depression,Atorvastatin,Once daily,30,Monitor blood pressure,No,Critical
+876,1632,Fracture,Omeprazole,Twice daily,10,Monitor blood pressure,Yes,Stable
+877,1170,Kidney Stones,Atorvastatin,Once daily,5,Monitor blood pressure,No,Stable
+878,283,Depression,Amlodipine,Twice daily,7,Rest advised,No,Stable
+879,1213,Type 2 Diabetes,Amlodipine,Three times daily,14,Monitor blood pressure,No,Needs Follow-up
+880,986,Hypertension,Sertraline,Once daily,21,Refer to specialist,No,Critical
+881,1692,Fracture,Amoxicillin,Twice daily,14,Patient responded well,No,Stable
+882,1282,Back Pain,Amlodipine,As needed,5,Rest advised,Yes,Recovered
+883,1447,Dermatitis,Omeprazole,Twice daily,10,Refer to specialist,No,Stable
+884,83,Migraine,Cetirizine,Twice daily,30,Dietary changes recommended,Yes,Stable
+885,1893,Back Pain,Ibuprofen,As needed,14,Refer to specialist,No,Stable
+886,79,Depression,Ibuprofen,Once daily,21,Follow-up in 2 weeks,Yes,Improving
+887,138,Gastritis,Paracetamol,Twice daily,21,Monitor blood pressure,No,Needs Follow-up
+888,140,Anemia,Amoxicillin,Three times daily,5,Rest advised,No,Recovered
+889,117,Migraine,Paracetamol,Twice daily,30,Monitor blood pressure,Yes,Needs Follow-up
+890,1782,Anxiety Disorder,Ibuprofen,Three times daily,5,Refer to specialist,No,Critical
+891,309,Back Pain,Omeprazole,Three times daily,21,Rest advised,No,Stable
+892,1797,Asthma,Lisinopril,Three times daily,30,Rest advised,Yes,Stable
+893,726,Asthma,Atorvastatin,As needed,14,Rest advised,No,Recovered
+894,717,Type 2 Diabetes,Omeprazole,Three times daily,14,Refer to specialist,No,Recovered
+895,1972,Fracture,Metformin,Once daily,21,Patient responded well,No,Recovered
+896,445,Coronary Artery Disease,Lisinopril,Three times daily,14,Patient responded well,No,Recovered
+897,673,Appendicitis,Cetirizine,As needed,21,Refer to specialist,Yes,Recovered
+898,821,Hypertension,Sertraline,As needed,5,Patient responded well,Yes,Critical
+899,132,Depression,Atorvastatin,Once daily,7,Patient responded well,Yes,Needs Follow-up
+900,1933,Hypertension,Ibuprofen,As needed,7,Lab tests required,No,Stable
+901,780,Coronary Artery Disease,Amoxicillin,As needed,30,Follow-up in 2 weeks,No,Stable
+902,1422,Dermatitis,Lisinopril,Twice daily,10,Rest advised,No,Recovered
+903,124,Asthma,Amlodipine,Twice daily,30,Refer to specialist,No,Stable
+904,118,Back Pain,Cetirizine,Three times daily,10,Dietary changes recommended,Yes,Needs Follow-up
+905,847,Dermatitis,Amoxicillin,Once daily,10,Rest advised,No,Recovered
+906,948,Kidney Stones,Amoxicillin,Once daily,14,Follow-up in 2 weeks,Yes,Improving
+907,143,Type 2 Diabetes,Ibuprofen,As needed,21,Patient responded well,Yes,Critical
+908,732,Back Pain,Metformin,As needed,10,Monitor blood pressure,No,Needs Follow-up
+909,1492,Dermatitis,Cetirizine,Three times daily,10,Refer to specialist,Yes,Critical
+910,1275,Coronary Artery Disease,Ibuprofen,Once daily,14,Follow-up in 2 weeks,No,Critical
+911,551,Type 2 Diabetes,Lisinopril,Once daily,14,Patient responded well,No,Stable
+912,205,Hypertension,Lisinopril,As needed,21,Lab tests required,Yes,Needs Follow-up
+913,1968,Anemia,Amoxicillin,Once daily,10,Patient responded well,No,Needs Follow-up
+914,1728,Asthma,Ibuprofen,Three times daily,5,Monitor blood pressure,No,Critical
+915,1154,Hypertension,Metformin,Once daily,7,Refer to specialist,Yes,Critical
+916,156,Flu,Amlodipine,As needed,14,Lab tests required,No,Critical
+917,1984,Migraine,Sertraline,Twice daily,30,Patient responded well,Yes,Stable
+918,646,Anemia,Amoxicillin,Twice daily,14,Follow-up in 2 weeks,No,Recovered
+919,1,Fracture,Sertraline,Three times daily,10,Follow-up in 2 weeks,No,Critical
+920,556,Coronary Artery Disease,Lisinopril,Once daily,5,Follow-up in 2 weeks,Yes,Recovered
+921,1930,Gastritis,Cetirizine,Three times daily,5,Refer to specialist,No,Critical
+922,1687,Fracture,Ibuprofen,Three times daily,14,Monitor blood pressure,Yes,Stable
+923,163,Appendicitis,Amoxicillin,As needed,7,Refer to specialist,Yes,Needs Follow-up
+924,616,Type 2 Diabetes,Amoxicillin,Twice daily,7,Follow-up in 2 weeks,No,Critical
+925,1556,Flu,Omeprazole,Three times daily,21,Dietary changes recommended,No,Recovered
+926,237,Asthma,Metformin,Once daily,10,Monitor blood pressure,No,Critical
+927,1026,Flu,Atorvastatin,Once daily,14,Monitor blood pressure,Yes,Critical
+928,1373,Coronary Artery Disease,Paracetamol,Three times daily,7,Follow-up in 2 weeks,Yes,Critical
+929,1159,Kidney Stones,Sertraline,Once daily,14,Lab tests required,Yes,Recovered
+930,396,Kidney Stones,Lisinopril,Three times daily,21,Rest advised,No,Improving
+931,800,Dermatitis,Metformin,Three times daily,30,Rest advised,Yes,Recovered
+932,1374,Gastritis,Amlodipine,Once daily,7,Monitor blood pressure,No,Stable
+933,404,Fracture,Atorvastatin,Once daily,5,Follow-up in 2 weeks,Yes,Needs Follow-up
+934,648,Appendicitis,Paracetamol,Three times daily,10,Patient responded well,Yes,Improving
+935,1733,Kidney Stones,Metformin,As needed,21,Follow-up in 2 weeks,Yes,Needs Follow-up
+936,264,Appendicitis,Omeprazole,Three times daily,14,Dietary changes recommended,No,Critical
+937,1943,Migraine,Omeprazole,Three times daily,10,Refer to specialist,No,Needs Follow-up
+938,1904,Flu,Atorvastatin,As needed,14,Patient responded well,Yes,Recovered
+939,990,Gastritis,Amoxicillin,Three times daily,30,Lab tests required,No,Recovered
+940,1352,Type 2 Diabetes,Omeprazole,Twice daily,7,Lab tests required,Yes,Needs Follow-up
+941,134,Fracture,Atorvastatin,Once daily,21,Lab tests required,No,Stable
+942,13,Coronary Artery Disease,Lisinopril,As needed,30,Refer to specialist,No,Recovered
+943,299,Asthma,Lisinopril,Once daily,30,Dietary changes recommended,No,Recovered
+944,680,Dermatitis,Metformin,As needed,7,Rest advised,Yes,Stable
+945,550,Coronary Artery Disease,Paracetamol,As needed,30,Patient responded well,Yes,Needs Follow-up
+946,1186,Depression,Amoxicillin,Once daily,14,Rest advised,Yes,Improving
+947,1071,Appendicitis,Ibuprofen,Once daily,7,Follow-up in 2 weeks,Yes,Improving
+948,1959,Depression,Lisinopril,Three times daily,5,Dietary changes recommended,No,Improving
+949,57,Fracture,Ibuprofen,Once daily,21,Rest advised,Yes,Stable
+950,1377,Fracture,Paracetamol,Twice daily,14,Monitor blood pressure,No,Improving
+951,248,Asthma,Lisinopril,Once daily,21,Patient responded well,No,Recovered
+952,155,Fracture,Amlodipine,Three times daily,30,Monitor blood pressure,Yes,Improving
+953,1178,Kidney Stones,Paracetamol,Three times daily,7,Rest advised,No,Critical
+954,1964,Depression,Cetirizine,Three times daily,30,Patient responded well,Yes,Critical
+955,1851,Hypertension,Lisinopril,Once daily,5,Follow-up in 2 weeks,Yes,Needs Follow-up
+956,1770,Coronary Artery Disease,Ibuprofen,Three times daily,7,Patient responded well,Yes,Stable
+957,624,Hypertension,Amoxicillin,Once daily,21,Patient responded well,No,Needs Follow-up
+958,987,Anxiety Disorder,Atorvastatin,Twice daily,5,Refer to specialist,No,Needs Follow-up
+959,337,Asthma,Omeprazole,Twice daily,10,Patient responded well,Yes,Critical
+960,1567,Dermatitis,Lisinopril,Twice daily,21,Rest advised,Yes,Improving
+961,168,Asthma,Cetirizine,Once daily,10,Refer to specialist,Yes,Recovered
+962,1516,Back Pain,Amlodipine,Once daily,30,Follow-up in 2 weeks,No,Recovered
+963,1413,Kidney Stones,Lisinopril,Twice daily,30,Lab tests required,Yes,Critical
+964,683,Back Pain,Paracetamol,As needed,10,Refer to specialist,No,Improving
+965,684,Appendicitis,Amlodipine,As needed,30,Monitor blood pressure,Yes,Improving
+966,184,Type 2 Diabetes,Ibuprofen,Twice daily,7,Refer to specialist,Yes,Stable
+967,1137,Asthma,Lisinopril,Once daily,7,Patient responded well,Yes,Needs Follow-up
+968,151,Anxiety Disorder,Amoxicillin,Twice daily,7,Rest advised,No,Stable
+969,714,Anemia,Omeprazole,Three times daily,7,Refer to specialist,No,Needs Follow-up
+970,537,Gastritis,Amlodipine,As needed,10,Follow-up in 2 weeks,Yes,Stable
+971,1531,Anxiety Disorder,Cetirizine,Three times daily,5,Follow-up in 2 weeks,Yes,Improving
+972,908,Fracture,Paracetamol,Once daily,14,Monitor blood pressure,No,Stable
+973,137,Type 2 Diabetes,Metformin,As needed,30,Follow-up in 2 weeks,No,Recovered
+974,526,Anxiety Disorder,Lisinopril,Once daily,10,Follow-up in 2 weeks,Yes,Critical
+975,1284,Asthma,Omeprazole,Twice daily,5,Rest advised,Yes,Critical
+976,1392,Back Pain,Ibuprofen,As needed,21,Follow-up in 2 weeks,Yes,Stable
+977,1683,Appendicitis,Omeprazole,Three times daily,10,Patient responded well,Yes,Needs Follow-up
+978,1138,Back Pain,Cetirizine,Twice daily,30,Lab tests required,Yes,Critical
+979,1664,Appendicitis,Amoxicillin,Three times daily,30,Refer to specialist,Yes,Needs Follow-up
+980,63,Fracture,Lisinopril,Once daily,10,Refer to specialist,No,Critical
+981,1765,Depression,Metformin,As needed,21,Dietary changes recommended,Yes,Improving
+982,1988,Gastritis,Atorvastatin,Three times daily,7,Rest advised,No,Improving
+983,796,Depression,Paracetamol,As needed,21,Dietary changes recommended,Yes,Recovered
+984,64,Migraine,Metformin,Twice daily,14,Follow-up in 2 weeks,No,Recovered
+985,1256,Asthma,Sertraline,Twice daily,14,Dietary changes recommended,No,Stable
+986,108,Asthma,Metformin,Twice daily,5,Refer to specialist,Yes,Needs Follow-up
+987,25,Kidney Stones,Amoxicillin,Three times daily,14,Lab tests required,No,Critical
+988,295,Flu,Omeprazole,As needed,7,Lab tests required,No,Recovered
+989,713,Type 2 Diabetes,Atorvastatin,Twice daily,10,Monitor blood pressure,Yes,Needs Follow-up
+990,846,Type 2 Diabetes,Cetirizine,Twice daily,10,Rest advised,No,Improving
+991,659,Appendicitis,Atorvastatin,Once daily,14,Patient responded well,No,Needs Follow-up
+992,1650,Anemia,Metformin,Twice daily,14,Monitor blood pressure,Yes,Critical
+993,804,Fracture,Lisinopril,As needed,30,Patient responded well,No,Needs Follow-up
+994,1438,Appendicitis,Metformin,Three times daily,10,Lab tests required,Yes,Needs Follow-up
+995,1216,Anxiety Disorder,Cetirizine,Three times daily,14,Rest advised,Yes,Improving
+996,1300,Depression,Cetirizine,Once daily,7,Lab tests required,No,Stable
+997,172,Hypertension,Omeprazole,Once daily,30,Rest advised,No,Improving
+998,1655,Anxiety Disorder,Paracetamol,As needed,5,Rest advised,Yes,Needs Follow-up
+999,1404,Migraine,Lisinopril,As needed,10,Monitor blood pressure,Yes,Recovered
+1000,1051,Back Pain,Atorvastatin,Once daily,30,Patient responded well,No,Needs Follow-up
+1001,1397,Dermatitis,Atorvastatin,As needed,30,Dietary changes recommended,No,Needs Follow-up
+1002,1204,Flu,Omeprazole,Once daily,21,Monitor blood pressure,No,Stable
+1003,795,Fracture,Metformin,Twice daily,10,Follow-up in 2 weeks,No,Stable
+1004,1044,Gastritis,Paracetamol,Once daily,21,Refer to specialist,Yes,Improving
+1005,1052,Gastritis,Lisinopril,Once daily,10,Dietary changes recommended,No,Improving
+1006,1009,Migraine,Atorvastatin,Once daily,30,Rest advised,No,Recovered
+1007,655,Gastritis,Amlodipine,Three times daily,5,Lab tests required,Yes,Critical
+1008,1312,Hypertension,Metformin,Twice daily,30,Lab tests required,Yes,Improving
+1009,639,Back Pain,Lisinopril,Once daily,14,Patient responded well,Yes,Needs Follow-up
+1010,1086,Migraine,Ibuprofen,Once daily,10,Lab tests required,No,Stable
+1011,1124,Dermatitis,Amlodipine,Twice daily,30,Monitor blood pressure,Yes,Recovered
+1012,1260,Depression,Amoxicillin,Twice daily,21,Dietary changes recommended,Yes,Critical
+1013,1436,Appendicitis,Amlodipine,As needed,5,Rest advised,No,Critical
+1014,549,Kidney Stones,Cetirizine,As needed,14,Rest advised,No,Needs Follow-up
+1015,947,Anxiety Disorder,Atorvastatin,Once daily,5,Follow-up in 2 weeks,No,Critical
+1016,269,Appendicitis,Lisinopril,Once daily,14,Patient responded well,No,Critical
+1017,1829,Appendicitis,Atorvastatin,Three times daily,5,Lab tests required,No,Needs Follow-up
+1018,1227,Hypertension,Metformin,Three times daily,10,Monitor blood pressure,Yes,Stable
+1019,24,Asthma,Amoxicillin,Three times daily,5,Patient responded well,No,Improving
+1020,1518,Flu,Sertraline,Once daily,7,Monitor blood pressure,Yes,Stable
+1021,1016,Fracture,Metformin,Three times daily,7,Follow-up in 2 weeks,No,Improving
+1022,1718,Anemia,Amlodipine,Twice daily,5,Lab tests required,Yes,Needs Follow-up
+1023,798,Migraine,Cetirizine,As needed,21,Rest advised,No,Stable
+1024,1862,Dermatitis,Atorvastatin,Twice daily,30,Lab tests required,Yes,Recovered
+1025,177,Type 2 Diabetes,Cetirizine,Twice daily,5,Lab tests required,Yes,Improving
+1026,1913,Appendicitis,Lisinopril,Once daily,14,Dietary changes recommended,No,Stable
+1027,1398,Kidney Stones,Sertraline,Once daily,21,Refer to specialist,No,Improving
+1028,1362,Anemia,Paracetamol,As needed,21,Monitor blood pressure,Yes,Needs Follow-up
+1029,1513,Anemia,Atorvastatin,Once daily,5,Follow-up in 2 weeks,Yes,Recovered
+1030,1363,Type 2 Diabetes,Paracetamol,Three times daily,30,Lab tests required,No,Needs Follow-up
+1031,1464,Back Pain,Omeprazole,As needed,10,Dietary changes recommended,No,Improving
+1032,483,Coronary Artery Disease,Cetirizine,Twice daily,5,Rest advised,No,Needs Follow-up
+1033,1402,Anxiety Disorder,Cetirizine,Twice daily,7,Rest advised,Yes,Critical
+1034,461,Appendicitis,Atorvastatin,Once daily,10,Patient responded well,Yes,Needs Follow-up
+1035,928,Type 2 Diabetes,Sertraline,Three times daily,10,Refer to specialist,Yes,Recovered
+1036,1501,Hypertension,Amlodipine,Twice daily,30,Follow-up in 2 weeks,No,Stable
+1037,1934,Flu,Metformin,As needed,14,Refer to specialist,No,Needs Follow-up
+1038,1323,Type 2 Diabetes,Paracetamol,Once daily,14,Rest advised,No,Improving
+1039,851,Depression,Amoxicillin,As needed,30,Refer to specialist,No,Recovered
+1040,1187,Coronary Artery Disease,Amoxicillin,As needed,5,Refer to specialist,Yes,Recovered
+1041,1281,Gastritis,Amlodipine,Three times daily,30,Dietary changes recommended,No,Recovered
+1042,937,Asthma,Omeprazole,Three times daily,21,Follow-up in 2 weeks,No,Needs Follow-up
+1043,570,Anxiety Disorder,Paracetamol,Three times daily,10,Refer to specialist,Yes,Improving
+1044,1906,Flu,Amoxicillin,Three times daily,21,Rest advised,Yes,Stable
+1045,284,Fracture,Paracetamol,As needed,7,Rest advised,No,Critical
+1046,1361,Asthma,Cetirizine,Once daily,30,Refer to specialist,Yes,Recovered
+1047,1366,Dermatitis,Sertraline,Twice daily,14,Lab tests required,No,Recovered
+1048,1818,Back Pain,Metformin,Twice daily,14,Follow-up in 2 weeks,Yes,Needs Follow-up
+1049,345,Back Pain,Lisinopril,Once daily,10,Patient responded well,No,Needs Follow-up
+1050,561,Anxiety Disorder,Amlodipine,As needed,5,Rest advised,No,Recovered
+1051,1486,Flu,Sertraline,Once daily,30,Follow-up in 2 weeks,Yes,Recovered
+1052,1633,Anemia,Atorvastatin,Three times daily,7,Refer to specialist,Yes,Stable
+1053,1785,Appendicitis,Ibuprofen,As needed,21,Monitor blood pressure,Yes,Recovered
+1054,1764,Back Pain,Amoxicillin,Once daily,30,Rest advised,No,Recovered
+1055,1145,Anemia,Sertraline,Three times daily,7,Lab tests required,Yes,Needs Follow-up
+1056,645,Hypertension,Lisinopril,Twice daily,21,Patient responded well,Yes,Stable
+1057,1478,Asthma,Atorvastatin,Three times daily,14,Follow-up in 2 weeks,No,Improving
+1058,1158,Type 2 Diabetes,Omeprazole,As needed,10,Dietary changes recommended,Yes,Recovered
+1059,42,Hypertension,Paracetamol,As needed,30,Rest advised,Yes,Critical
+1060,981,Fracture,Amoxicillin,As needed,30,Dietary changes recommended,Yes,Needs Follow-up
+1061,667,Anxiety Disorder,Amlodipine,As needed,7,Rest advised,No,Needs Follow-up
+1062,1098,Dermatitis,Amoxicillin,Twice daily,7,Lab tests required,Yes,Recovered
+1063,813,Dermatitis,Atorvastatin,As needed,5,Patient responded well,No,Stable
+1064,1329,Hypertension,Lisinopril,Twice daily,7,Lab tests required,No,Critical
+1065,107,Migraine,Paracetamol,Twice daily,14,Refer to specialist,Yes,Critical
+1066,218,Gastritis,Lisinopril,Three times daily,30,Refer to specialist,No,Needs Follow-up
+1067,377,Fracture,Cetirizine,As needed,10,Monitor blood pressure,No,Recovered
+1068,476,Hypertension,Sertraline,Once daily,30,Rest advised,Yes,Improving
+1069,422,Anemia,Lisinopril,Three times daily,5,Rest advised,No,Improving
+1070,862,Migraine,Lisinopril,Twice daily,21,Follow-up in 2 weeks,Yes,Recovered
+1071,920,Gastritis,Amoxicillin,Once daily,30,Rest advised,Yes,Improving
+1072,609,Appendicitis,Amoxicillin,Twice daily,30,Dietary changes recommended,No,Stable
+1073,1006,Fracture,Omeprazole,As needed,21,Patient responded well,No,Recovered
+1074,1719,Appendicitis,Metformin,Once daily,14,Dietary changes recommended,Yes,Improving
+1075,437,Migraine,Atorvastatin,Three times daily,30,Patient responded well,Yes,Needs Follow-up
+1076,270,Flu,Ibuprofen,Once daily,7,Lab tests required,Yes,Recovered
+1077,929,Back Pain,Sertraline,Twice daily,5,Patient responded well,Yes,Recovered
+1078,1698,Dermatitis,Paracetamol,Three times daily,21,Dietary changes recommended,No,Stable
+1079,1174,Back Pain,Amlodipine,As needed,7,Refer to specialist,Yes,Recovered
+1080,1672,Type 2 Diabetes,Cetirizine,As needed,14,Dietary changes recommended,Yes,Stable
+1081,67,Anemia,Omeprazole,Once daily,14,Dietary changes recommended,No,Stable
+1082,863,Anxiety Disorder,Metformin,Twice daily,14,Monitor blood pressure,No,Improving
+1083,1817,Anemia,Metformin,As needed,14,Monitor blood pressure,Yes,Recovered
+1084,958,Anxiety Disorder,Lisinopril,As needed,5,Dietary changes recommended,No,Stable
+1085,1676,Anemia,Amlodipine,Once daily,21,Follow-up in 2 weeks,Yes,Needs Follow-up
+1086,663,Gastritis,Atorvastatin,Three times daily,30,Refer to specialist,Yes,Critical
+1087,831,Type 2 Diabetes,Metformin,Once daily,14,Refer to specialist,Yes,Improving
+1088,189,Dermatitis,Lisinopril,As needed,14,Dietary changes recommended,No,Needs Follow-up
+1089,1134,Kidney Stones,Amlodipine,Twice daily,14,Patient responded well,Yes,Improving
+1090,1487,Depression,Metformin,Once daily,14,Patient responded well,No,Recovered
+1091,805,Fracture,Paracetamol,As needed,5,Dietary changes recommended,No,Improving
+1092,1981,Depression,Metformin,As needed,5,Refer to specialist,No,Needs Follow-up
+1093,765,Asthma,Metformin,Twice daily,7,Monitor blood pressure,Yes,Improving
+1094,523,Kidney Stones,Metformin,As needed,10,Dietary changes recommended,Yes,Stable
+1095,338,Fracture,Lisinopril,Once daily,30,Dietary changes recommended,Yes,Recovered
+1096,1970,Flu,Ibuprofen,Three times daily,14,Patient responded well,Yes,Needs Follow-up
+1097,1200,Hypertension,Ibuprofen,Once daily,7,Monitor blood pressure,Yes,Recovered
+1098,946,Depression,Ibuprofen,Twice daily,10,Dietary changes recommended,Yes,Critical
+1099,1847,Appendicitis,Lisinopril,Once daily,7,Lab tests required,No,Improving
+1100,552,Depression,Amoxicillin,As needed,5,Rest advised,Yes,Stable
+1101,881,Kidney Stones,Lisinopril,Three times daily,7,Patient responded well,No,Recovered
+1102,395,Hypertension,Atorvastatin,Once daily,7,Refer to specialist,No,Stable
+1103,1784,Appendicitis,Sertraline,Once daily,7,Rest advised,No,Improving
+1104,234,Gastritis,Ibuprofen,Once daily,30,Rest advised,No,Stable
+1105,380,Appendicitis,Lisinopril,Twice daily,30,Patient responded well,No,Recovered
+1106,913,Anemia,Ibuprofen,Once daily,7,Monitor blood pressure,No,Needs Follow-up
+1107,975,Coronary Artery Disease,Atorvastatin,Once daily,10,Refer to specialist,Yes,Improving
+1108,1082,Kidney Stones,Metformin,Twice daily,21,Monitor blood pressure,Yes,Critical
+1109,1749,Back Pain,Paracetamol,Once daily,21,Lab tests required,Yes,Improving
+1110,1758,Flu,Omeprazole,Twice daily,21,Patient responded well,No,Needs Follow-up
+1111,1421,Anxiety Disorder,Metformin,Once daily,5,Rest advised,No,Stable
+1112,1027,Back Pain,Sertraline,Twice daily,5,Refer to specialist,Yes,Stable
+1113,1716,Depression,Cetirizine,Three times daily,7,Monitor blood pressure,No,Needs Follow-up
+1114,656,Anxiety Disorder,Amoxicillin,Twice daily,30,Dietary changes recommended,No,Critical
+1115,1509,Coronary Artery Disease,Ibuprofen,Once daily,14,Lab tests required,Yes,Stable
+1116,1268,Flu,Omeprazole,Three times daily,14,Dietary changes recommended,Yes,Improving
+1117,331,Hypertension,Omeprazole,Three times daily,21,Rest advised,Yes,Improving
+1118,1625,Depression,Cetirizine,Twice daily,7,Rest advised,No,Stable
+1119,1290,Migraine,Atorvastatin,Twice daily,14,Monitor blood pressure,Yes,Needs Follow-up
+1120,1686,Migraine,Sertraline,As needed,14,Lab tests required,No,Needs Follow-up
+1121,10,Dermatitis,Cetirizine,Three times daily,10,Rest advised,No,Needs Follow-up
+1122,499,Dermatitis,Amlodipine,As needed,21,Follow-up in 2 weeks,Yes,Improving
+1123,1927,Kidney Stones,Paracetamol,Three times daily,30,Dietary changes recommended,Yes,Stable
+1124,22,Back Pain,Amoxicillin,Twice daily,5,Refer to specialist,Yes,Stable
+1125,1562,Anemia,Metformin,Once daily,5,Refer to specialist,Yes,Needs Follow-up
+1126,1068,Depression,Ibuprofen,Twice daily,14,Refer to specialist,No,Improving
+1127,1113,Dermatitis,Atorvastatin,As needed,14,Dietary changes recommended,No,Stable
+1128,102,Gastritis,Sertraline,Once daily,21,Follow-up in 2 weeks,Yes,Improving
+1129,905,Kidney Stones,Paracetamol,Once daily,5,Follow-up in 2 weeks,Yes,Stable
+1130,1427,Anemia,Amlodipine,As needed,10,Dietary changes recommended,No,Needs Follow-up
+1131,1656,Back Pain,Sertraline,Once daily,7,Follow-up in 2 weeks,Yes,Needs Follow-up
+1132,1809,Asthma,Metformin,Twice daily,30,Monitor blood pressure,No,Stable
+1133,1221,Kidney Stones,Metformin,As needed,10,Refer to specialist,Yes,Critical
+1134,1288,Asthma,Paracetamol,Three times daily,10,Follow-up in 2 weeks,Yes,Critical
+1135,521,Type 2 Diabetes,Metformin,As needed,14,Follow-up in 2 weeks,No,Recovered
+1136,875,Back Pain,Atorvastatin,Three times daily,5,Patient responded well,Yes,Stable
+1137,1342,Coronary Artery Disease,Sertraline,Three times daily,10,Rest advised,No,Stable
+1138,689,Fracture,Cetirizine,Three times daily,10,Refer to specialist,No,Stable
+1139,566,Back Pain,Paracetamol,Three times daily,5,Lab tests required,Yes,Recovered
+1140,382,Back Pain,Ibuprofen,Twice daily,21,Monitor blood pressure,No,Critical
+1141,1939,Kidney Stones,Omeprazole,Once daily,7,Monitor blood pressure,Yes,Needs Follow-up
+1142,1040,Asthma,Metformin,Three times daily,7,Lab tests required,Yes,Recovered
+1143,1811,Dermatitis,Atorvastatin,Three times daily,7,Monitor blood pressure,Yes,Recovered
+1144,1604,Coronary Artery Disease,Omeprazole,Three times daily,10,Refer to specialist,No,Needs Follow-up
+1145,1471,Flu,Lisinopril,Three times daily,5,Monitor blood pressure,Yes,Needs Follow-up
+1146,697,Gastritis,Ibuprofen,Three times daily,14,Monitor blood pressure,Yes,Needs Follow-up
+1147,989,Migraine,Paracetamol,Twice daily,10,Refer to specialist,Yes,Critical
+1148,534,Back Pain,Atorvastatin,Once daily,14,Rest advised,No,Critical
+1149,1298,Gastritis,Cetirizine,Once daily,10,Patient responded well,Yes,Critical
+1150,1065,Type 2 Diabetes,Paracetamol,Once daily,14,Follow-up in 2 weeks,Yes,Improving
+1151,1307,Gastritis,Ibuprofen,Once daily,10,Patient responded well,Yes,Needs Follow-up
+1152,686,Anemia,Lisinopril,As needed,7,Refer to specialist,Yes,Needs Follow-up
+1153,389,Flu,Lisinopril,Three times daily,14,Patient responded well,Yes,Needs Follow-up
+1154,1886,Fracture,Paracetamol,Three times daily,5,Dietary changes recommended,No,Stable
+1155,890,Hypertension,Amlodipine,Twice daily,5,Lab tests required,Yes,Recovered
+1156,1615,Anxiety Disorder,Ibuprofen,Three times daily,21,Monitor blood pressure,No,Improving
+1157,235,Appendicitis,Atorvastatin,Three times daily,14,Refer to specialist,No,Recovered
+1158,1515,Kidney Stones,Amlodipine,Three times daily,7,Patient responded well,Yes,Recovered
+1159,1760,Dermatitis,Lisinopril,As needed,14,Lab tests required,No,Stable
+1160,1725,Dermatitis,Paracetamol,As needed,7,Refer to specialist,No,Improving
+1161,26,Type 2 Diabetes,Amoxicillin,Twice daily,14,Refer to specialist,No,Critical
+1162,1386,Kidney Stones,Paracetamol,Twice daily,7,Monitor blood pressure,Yes,Recovered
+1163,1460,Type 2 Diabetes,Paracetamol,Three times daily,5,Follow-up in 2 weeks,Yes,Recovered
+1164,247,Kidney Stones,Omeprazole,Twice daily,21,Dietary changes recommended,No,Needs Follow-up
+1165,1900,Appendicitis,Sertraline,Once daily,21,Rest advised,Yes,Needs Follow-up
+1166,1503,Back Pain,Amlodipine,As needed,10,Patient responded well,No,Improving
+1167,1598,Back Pain,Amlodipine,As needed,30,Refer to specialist,No,Stable
+1168,1529,Back Pain,Metformin,Once daily,30,Rest advised,Yes,Critical
+1169,1889,Anemia,Atorvastatin,Three times daily,14,Refer to specialist,No,Needs Follow-up
+1170,578,Kidney Stones,Lisinopril,As needed,21,Refer to specialist,No,Stable
+1171,281,Coronary Artery Disease,Metformin,As needed,30,Dietary changes recommended,No,Recovered
+1172,1661,Kidney Stones,Omeprazole,Once daily,10,Refer to specialist,Yes,Stable
+1173,636,Back Pain,Omeprazole,Twice daily,10,Follow-up in 2 weeks,No,Stable
+1174,1631,Hypertension,Atorvastatin,As needed,21,Rest advised,Yes,Critical
+1175,909,Fracture,Sertraline,Once daily,7,Patient responded well,Yes,Stable
+1176,738,Anemia,Amlodipine,As needed,30,Dietary changes recommended,No,Critical
+1177,817,Fracture,Ibuprofen,Twice daily,7,Monitor blood pressure,No,Critical
+1178,770,Depression,Lisinopril,Three times daily,14,Follow-up in 2 weeks,No,Recovered
+1179,1041,Dermatitis,Metformin,As needed,30,Dietary changes recommended,Yes,Stable
+1180,834,Kidney Stones,Sertraline,Once daily,14,Rest advised,Yes,Stable
+1181,1440,Dermatitis,Omeprazole,As needed,14,Follow-up in 2 weeks,Yes,Stable
+1182,1069,Flu,Lisinopril,Once daily,10,Dietary changes recommended,Yes,Recovered
+1183,1660,Type 2 Diabetes,Atorvastatin,Three times daily,5,Patient responded well,Yes,Improving
+1184,1042,Dermatitis,Amlodipine,As needed,10,Monitor blood pressure,No,Improving
+1185,1852,Gastritis,Cetirizine,Twice daily,21,Refer to specialist,Yes,Needs Follow-up
+1186,188,Fracture,Paracetamol,As needed,5,Monitor blood pressure,No,Improving
+1187,1241,Dermatitis,Cetirizine,As needed,5,Refer to specialist,Yes,Stable
+1188,379,Gastritis,Amlodipine,Once daily,7,Dietary changes recommended,Yes,Critical
+1189,756,Gastritis,Sertraline,Twice daily,21,Patient responded well,No,Recovered
+1190,1234,Anxiety Disorder,Paracetamol,Twice daily,10,Monitor blood pressure,No,Improving
+1191,1592,Coronary Artery Disease,Atorvastatin,Three times daily,5,Follow-up in 2 weeks,Yes,Critical
+1192,1031,Asthma,Amoxicillin,Once daily,7,Monitor blood pressure,Yes,Recovered
+1193,1474,Dermatitis,Omeprazole,Three times daily,30,Monitor blood pressure,No,Improving
+1194,133,Fracture,Paracetamol,Three times daily,10,Lab tests required,No,Improving
+1195,1004,Coronary Artery Disease,Metformin,Once daily,10,Monitor blood pressure,No,Stable
+1196,460,Fracture,Amoxicillin,Once daily,5,Rest advised,No,Critical
+1197,1649,Fracture,Sertraline,Three times daily,30,Follow-up in 2 weeks,Yes,Needs Follow-up
+1198,1390,Appendicitis,Sertraline,Twice daily,30,Refer to specialist,Yes,Critical
+1199,1980,Anemia,Cetirizine,Once daily,7,Lab tests required,Yes,Improving
+1200,1304,Kidney Stones,Amoxicillin,Once daily,10,Rest advised,No,Critical
+1201,1962,Gastritis,Ibuprofen,As needed,10,Refer to specialist,Yes,Recovered
+1202,991,Gastritis,Sertraline,Twice daily,30,Refer to specialist,Yes,Recovered
+1203,1860,Hypertension,Amlodipine,Once daily,10,Monitor blood pressure,No,Critical
+1204,605,Back Pain,Sertraline,As needed,21,Monitor blood pressure,No,Improving
+1205,353,Anemia,Amlodipine,As needed,14,Follow-up in 2 weeks,No,Stable
+1206,1597,Type 2 Diabetes,Metformin,Once daily,14,Patient responded well,No,Recovered
+1207,1077,Fracture,Lisinopril,Three times daily,7,Refer to specialist,No,Improving
+1208,447,Coronary Artery Disease,Metformin,As needed,7,Lab tests required,Yes,Needs Follow-up
+1209,1488,Hypertension,Lisinopril,Once daily,21,Rest advised,Yes,Critical
+1210,661,Depression,Metformin,Three times daily,21,Follow-up in 2 weeks,Yes,Recovered
+1211,564,Hypertension,Cetirizine,As needed,7,Monitor blood pressure,No,Stable
+1212,883,Depression,Ibuprofen,Once daily,21,Rest advised,Yes,Stable
+1213,1120,Flu,Metformin,Three times daily,5,Dietary changes recommended,Yes,Stable
+1214,864,Type 2 Diabetes,Sertraline,Twice daily,10,Monitor blood pressure,Yes,Needs Follow-up
+1215,465,Asthma,Ibuprofen,Twice daily,14,Patient responded well,Yes,Recovered
+1216,131,Fracture,Atorvastatin,Three times daily,7,Refer to specialist,Yes,Improving
+1217,1678,Dermatitis,Amlodipine,Three times daily,7,Patient responded well,No,Improving
+1218,696,Back Pain,Amoxicillin,Once daily,5,Follow-up in 2 weeks,Yes,Needs Follow-up
+1219,664,Anxiety Disorder,Paracetamol,Twice daily,10,Monitor blood pressure,Yes,Critical
+1220,335,Back Pain,Omeprazole,Twice daily,10,Rest advised,Yes,Improving
+1221,502,Appendicitis,Sertraline,Three times daily,10,Dietary changes recommended,No,Improving
+1222,512,Hypertension,Atorvastatin,Three times daily,14,Dietary changes recommended,Yes,Recovered
+1223,217,Migraine,Paracetamol,As needed,30,Monitor blood pressure,Yes,Critical
+1224,799,Dermatitis,Metformin,Three times daily,30,Lab tests required,Yes,Stable
+1225,704,Migraine,Atorvastatin,Once daily,30,Rest advised,No,Improving
+1226,580,Appendicitis,Atorvastatin,As needed,5,Rest advised,No,Improving
+1227,532,Migraine,Lisinopril,Three times daily,10,Patient responded well,Yes,Improving
+1228,166,Asthma,Atorvastatin,Three times daily,30,Dietary changes recommended,Yes,Stable
+1229,426,Anemia,Amoxicillin,Twice daily,14,Monitor blood pressure,No,Stable
+1230,1269,Kidney Stones,Metformin,Once daily,10,Patient responded well,Yes,Critical
+1231,1490,Migraine,Lisinopril,Three times daily,21,Dietary changes recommended,Yes,Needs Follow-up
+1232,56,Hypertension,Metformin,As needed,7,Refer to specialist,Yes,Recovered
+1233,277,Flu,Cetirizine,Once daily,7,Monitor blood pressure,Yes,Needs Follow-up
+1234,1643,Anemia,Omeprazole,Three times daily,10,Rest advised,Yes,Recovered
+1235,1586,Type 2 Diabetes,Amoxicillin,As needed,5,Monitor blood pressure,Yes,Critical
+1236,754,Anxiety Disorder,Amlodipine,Once daily,5,Follow-up in 2 weeks,No,Improving
+1237,774,Back Pain,Sertraline,Once daily,10,Monitor blood pressure,Yes,Needs Follow-up
+1238,1353,Migraine,Lisinopril,As needed,30,Patient responded well,Yes,Improving
+1239,1308,Back Pain,Omeprazole,As needed,21,Refer to specialist,Yes,Recovered
+1240,1439,Back Pain,Sertraline,Three times daily,14,Patient responded well,Yes,Critical
+1241,1324,Fracture,Sertraline,As needed,21,Dietary changes recommended,Yes,Stable
+1242,1901,Flu,Amoxicillin,Twice daily,21,Dietary changes recommended,No,Improving
+1243,1928,Type 2 Diabetes,Paracetamol,As needed,14,Rest advised,Yes,Recovered
+1244,1385,Depression,Lisinopril,Three times daily,21,Follow-up in 2 weeks,No,Needs Follow-up
+1245,1183,Hypertension,Paracetamol,As needed,10,Monitor blood pressure,Yes,Stable
+1246,528,Coronary Artery Disease,Cetirizine,Once daily,7,Patient responded well,No,Needs Follow-up
+1247,434,Anxiety Disorder,Cetirizine,Twice daily,5,Refer to specialist,Yes,Needs Follow-up
+1248,100,Asthma,Atorvastatin,Twice daily,7,Lab tests required,Yes,Improving
+1249,468,Gastritis,Omeprazole,Three times daily,30,Monitor blood pressure,Yes,Stable
+1250,722,Gastritis,Paracetamol,As needed,5,Rest advised,No,Needs Follow-up
+1251,241,Migraine,Atorvastatin,Three times daily,10,Monitor blood pressure,Yes,Recovered
+1252,776,Hypertension,Lisinopril,As needed,5,Dietary changes recommended,No,Stable
+1253,95,Anemia,Amoxicillin,As needed,21,Dietary changes recommended,Yes,Improving
+1254,1091,Kidney Stones,Atorvastatin,Once daily,10,Rest advised,No,Recovered
+1255,265,Anemia,Paracetamol,Three times daily,10,Monitor blood pressure,No,Critical
+1256,554,Type 2 Diabetes,Metformin,As needed,7,Dietary changes recommended,No,Stable
+1257,943,Hypertension,Paracetamol,Once daily,14,Follow-up in 2 weeks,No,Critical
+1258,786,Hypertension,Cetirizine,Twice daily,14,Follow-up in 2 weeks,No,Stable
+1259,1417,Coronary Artery Disease,Paracetamol,Twice daily,30,Patient responded well,Yes,Needs Follow-up
+1260,1798,Coronary Artery Disease,Ibuprofen,As needed,14,Dietary changes recommended,Yes,Recovered
+1261,1089,Gastritis,Sertraline,As needed,14,Monitor blood pressure,Yes,Stable
+1262,671,Coronary Artery Disease,Metformin,Once daily,5,Monitor blood pressure,Yes,Improving
+1263,1232,Depression,Sertraline,Three times daily,21,Follow-up in 2 weeks,No,Improving
+1264,849,Back Pain,Paracetamol,Twice daily,7,Refer to specialist,Yes,Needs Follow-up
+1265,311,Coronary Artery Disease,Metformin,Once daily,5,Follow-up in 2 weeks,Yes,Stable
+1266,8,Anemia,Metformin,Once daily,30,Patient responded well,No,Critical
+1267,1827,Type 2 Diabetes,Ibuprofen,Twice daily,21,Monitor blood pressure,Yes,Needs Follow-up
+1268,790,Depression,Amoxicillin,Twice daily,10,Patient responded well,Yes,Needs Follow-up
+1269,953,Fracture,Omeprazole,Once daily,21,Follow-up in 2 weeks,No,Critical
+1270,1035,Migraine,Amlodipine,Three times daily,5,Monitor blood pressure,Yes,Needs Follow-up
+1271,1339,Anemia,Sertraline,As needed,5,Rest advised,No,Critical
+1272,571,Asthma,Paracetamol,As needed,5,Monitor blood pressure,Yes,Critical
+1273,1355,Kidney Stones,Omeprazole,Twice daily,30,Rest advised,No,Recovered
+1274,1456,Fracture,Omeprazole,Twice daily,30,Patient responded well,Yes,Needs Follow-up
+1275,1136,Back Pain,Cetirizine,Twice daily,21,Refer to specialist,No,Stable
+1276,1195,Dermatitis,Sertraline,Twice daily,14,Rest advised,No,Recovered
+1277,1899,Anxiety Disorder,Paracetamol,As needed,7,Follow-up in 2 weeks,Yes,Stable
+1278,753,Type 2 Diabetes,Sertraline,Twice daily,5,Follow-up in 2 weeks,No,Needs Follow-up
+1279,1253,Hypertension,Amlodipine,Twice daily,10,Refer to specialist,Yes,Stable
+1280,160,Depression,Metformin,Twice daily,7,Patient responded well,Yes,Recovered
+1281,830,Gastritis,Metformin,As needed,21,Monitor blood pressure,Yes,Recovered
+1282,1202,Coronary Artery Disease,Amoxicillin,Three times daily,5,Monitor blood pressure,No,Recovered
+1283,1330,Depression,Amlodipine,Three times daily,10,Patient responded well,Yes,Needs Follow-up
+1284,1605,Anemia,Amlodipine,Once daily,5,Dietary changes recommended,No,Critical
+1285,1415,Type 2 Diabetes,Amlodipine,Twice daily,5,Patient responded well,Yes,Critical
+1286,61,Anxiety Disorder,Metformin,Twice daily,10,Lab tests required,Yes,Needs Follow-up
+1287,1946,Flu,Paracetamol,Three times daily,7,Rest advised,Yes,Improving
+1288,1426,Migraine,Metformin,Twice daily,14,Patient responded well,No,Stable
+1289,1602,Migraine,Amlodipine,Twice daily,14,Patient responded well,No,Stable
+1290,1224,Kidney Stones,Amoxicillin,As needed,21,Rest advised,No,Critical
+1291,1865,Anemia,Ibuprofen,As needed,14,Monitor blood pressure,No,Needs Follow-up
+1292,1173,Dermatitis,Paracetamol,As needed,7,Lab tests required,No,Needs Follow-up
+1293,507,Gastritis,Metformin,Twice daily,30,Monitor blood pressure,No,Critical
+1294,245,Hypertension,Amoxicillin,Three times daily,5,Monitor blood pressure,No,Improving

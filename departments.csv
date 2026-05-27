@@ -1,0 +1,11 @@
+department_id,department_name,department_head,floor,phone_ext
+1,Cardiology,Dr. Ahmed Saber,2,1000
+2,Neurology,Dr. Mona Khalil,3,1001
+3,Orthopedics,Dr. Tarek Nour,4,1002
+4,Pediatrics,Dr. Sara Adel,1,1003
+5,Oncology,Dr. Hani Zaki,5,1004
+6,Emergency,Dr. Layla Mostafa,0,1005
+7,Radiology,Dr. Omar Farid,2,1006
+8,Dermatology,Dr. Nadia Hassan,3,1007
+9,Gastroenterology,Dr. Karim Soliman,4,1008
+10,Psychiatry,Dr. Reem Youssef,5,1009
